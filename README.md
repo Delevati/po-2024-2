@@ -2,7 +2,7 @@
 
 ### Observação
 
-run code e resultado carregados em: ```lista01.ipynb```
+run code e resultados carregados em: ```lista01.ipynb```
 
 O requirements desse projeto foi criado com `pip` (tipo `venv` ou `virtualenv`). Não é compátivel com `conda`.
 
