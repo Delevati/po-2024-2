@@ -1,5 +1,8 @@
 # Lista 01 - Pesquisa Operacional
 
+### Observação
+O requirements desse projeto foi criado com `pip` (tipo `venv` ou `virtualenv`). Acredito que o requirements não é compátivel com `conda`.
+
 ## Conteúdo do Notebook
 
 ### Questão I
