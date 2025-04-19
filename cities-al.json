@@ -1,0 +1,1022 @@
+[
+  {
+    "codigo": "2700102",
+    "municipio": "Água Branca",
+    "latitude": -9.260833,
+    "longitude": -37.936111,
+    "populacao": 19008,
+    "distanciaMaceio": "248.29 km",
+    "distanciaRodoviaMaceio": "295 km",
+    "tempoViagemMaceio": "4 hora 23 min"
+  },
+  {
+    "codigo": "2700201",
+    "municipio": "Anadia",
+    "latitude": -9.684444,
+    "longitude": -36.304167,
+    "populacao": 13811,
+    "distanciaMaceio": "65.87 km",
+    "distanciaRodoviaMaceio": "90.2 km",
+    "tempoViagemMaceio": "1 hora 25 min"
+  },
+  {
+    "codigo": "2700300",
+    "municipio": "Arapiraca",
+    "latitude": -9.7525,
+    "longitude": -36.661111,
+    "populacao": 234696,
+    "distanciaMaceio": "105.45 km",
+    "distanciaRodoviaMaceio": "136 km",
+    "tempoViagemMaceio": "2 hora 7 min"
+  },
+  {
+    "codigo": "2700409",
+    "municipio": "Atalaia",
+    "latitude": -9.501944,
+    "longitude": -36.022778,
+    "populacao": 37512,
+    "distanciaMaceio": "36.31 km",
+    "distanciaRodoviaMaceio": "47.6 km",
+    "tempoViagemMaceio": "50 min"
+  },
+  {
+    "codigo": "2700508",
+    "municipio": "Barra de Santo Antônio",
+    "latitude": -9.404722,
+    "longitude": -35.507222,
+    "populacao": 16365,
+    "distanciaMaceio": "35.1 km",
+    "distanciaRodoviaMaceio": "38.8 km",
+    "tempoViagemMaceio": "38 min"
+  },
+  {
+    "codigo": "2700607",
+    "municipio": "Barra de São Miguel",
+    "latitude": -9.84,
+    "longitude": -35.907778,
+    "populacao": 7944,
+    "distanciaMaceio": "27.41 km",
+    "distanciaRodoviaMaceio": "37.5 km",
+    "tempoViagemMaceio": "38 min"
+  },
+  {
+    "codigo": "2700706",
+    "municipio": "Batalha",
+    "latitude": -9.677778,
+    "longitude": -37.124722,
+    "populacao": 16448,
+    "distanciaMaceio": "156.34 km",
+    "distanciaRodoviaMaceio": "190 km",
+    "tempoViagemMaceio": "2 hora 49 min"
+  },
+  {
+    "codigo": "2700805",
+    "municipio": "Belém",
+    "latitude": -9.571111,
+    "longitude": -36.492222,
+    "populacao": 4722,
+    "distanciaMaceio": "86.63 km",
+    "distanciaRodoviaMaceio": "118 km",
+    "tempoViagemMaceio": "1 hora 57 min"
+  },
+  {
+    "codigo": "2700904",
+    "municipio": "Belo Monte",
+    "latitude": -9.828333,
+    "longitude": -37.28,
+    "populacao": 5936,
+    "distanciaMaceio": "173.16 km",
+    "distanciaRodoviaMaceio": "217 km",
+    "tempoViagemMaceio": "3 hora 16 min"
+  },
+  {
+    "codigo": "2701001",
+    "municipio": "Boca da Mata",
+    "latitude": -9.641389,
+    "longitude": -36.220278,
+    "populacao": 21187,
+    "distanciaMaceio": "55.3 km",
+    "distanciaRodoviaMaceio": "76.4 km",
+    "tempoViagemMaceio": "1 hora 13 min"
+  },
+  {
+    "codigo": "2701100",
+    "municipio": "Branquinha",
+    "latitude": -9.245556,
+    "longitude": -36.015278,
+    "populacao": 9603,
+    "distanciaMaceio": "57.31 km",
+    "distanciaRodoviaMaceio": "68.3 km",
+    "tempoViagemMaceio": "1 hora 4 min"
+  },
+  {
+    "codigo": "2701209",
+    "municipio": "Cacimbinhas",
+    "latitude": -9.400278,
+    "longitude": -36.990278,
+    "populacao": 10476,
+    "distanciaMaceio": "143.48 km",
+    "distanciaRodoviaMaceio": "177 km",
+    "tempoViagemMaceio": "2 hora 37 min"
+  },
+  {
+    "codigo": "2701308",
+    "municipio": "Cajueiro",
+    "latitude": -9.396667,
+    "longitude": -36.153611,
+    "populacao": 16024,
+    "distanciaMaceio": "56.45 km",
+    "distanciaRodoviaMaceio": "68.4 km",
+    "tempoViagemMaceio": "1 hora 9 min"
+  },
+  {
+    "codigo": "2701357",
+    "municipio": "Campestre",
+    "latitude": -8.845833,
+    "longitude": -35.568056,
+    "populacao": 6665,
+    "distanciaMaceio": "90.62 km",
+    "distanciaRodoviaMaceio": "118 km",
+    "tempoViagemMaceio": "1 hora 47 min"
+  },
+  {
+    "codigo": "2701407",
+    "municipio": "Campo Alegre",
+    "latitude": -9.781944,
+    "longitude": -36.350833,
+    "populacao": 32106,
+    "distanciaMaceio": "71.97 km",
+    "distanciaRodoviaMaceio": "96.7 km",
+    "tempoViagemMaceio": "1 hora 30 min"
+  },
+  {
+    "codigo": "2701506",
+    "municipio": "Campo Grande",
+    "latitude": -9.957778,
+    "longitude": -36.791667,
+    "populacao": 8142,
+    "distanciaMaceio": "120.55 km",
+    "distanciaRodoviaMaceio": "174 km",
+    "tempoViagemMaceio": "2 hora 40 min"
+  },
+  {
+    "codigo": "2701605",
+    "municipio": "Canapi",
+    "latitude": -9.116944,
+    "longitude": -37.602222,
+    "populacao": 15559,
+    "distanciaMaceio": "216.41 km",
+    "distanciaRodoviaMaceio": "256 km",
+    "tempoViagemMaceio": "3 hora 44 min"
+  },
+  {
+    "codigo": "2701704",
+    "municipio": "Capela",
+    "latitude": -9.4075,
+    "longitude": -36.073611,
+    "populacao": 15032,
+    "distanciaMaceio": "48.76 km",
+    "distanciaRodoviaMaceio": "58.7 km",
+    "tempoViagemMaceio": "59 min"
+  },
+  {
+    "codigo": "2701803",
+    "municipio": "Carneiros",
+    "latitude": -9.4825,
+    "longitude": -37.377222,
+    "populacao": 8999,
+    "distanciaMaceio": "184.09 km",
+    "distanciaRodoviaMaceio": "231 km",
+    "tempoViagemMaceio": "3 hora 24 min"
+  },
+  {
+    "codigo": "2701902",
+    "municipio": "Chã Preta",
+    "latitude": -9.255278,
+    "longitude": -36.296111,
+    "populacao": 5910,
+    "distanciaMaceio": "78.2 km",
+    "distanciaRodoviaMaceio": "101 km",
+    "tempoViagemMaceio": "1 hora 37 min"
+  },
+  {
+    "codigo": "2702009",
+    "municipio": "Coité do Nóia",
+    "latitude": -9.632222,
+    "longitude": -36.578611,
+    "populacao": 10810,
+    "distanciaMaceio": "96.54 km",
+    "distanciaRodoviaMaceio": "126 km",
+    "tempoViagemMaceio": "2 hora 3 min"
+  },
+  {
+    "codigo": "2702108",
+    "municipio": "Colônia Leopoldina",
+    "latitude": -8.908889,
+    "longitude": -35.725,
+    "populacao": 15816,
+    "distanciaMaceio": "81.95 km",
+    "distanciaRodoviaMaceio": "116 km",
+    "tempoViagemMaceio": "1 hora 43 min"
+  },
+  {
+    "codigo": "2702207",
+    "municipio": "Coqueiro Seco",
+    "latitude": -9.638333,
+    "longitude": -35.803056,
+    "populacao": 5581,
+    "distanciaMaceio": "10.05 km",
+    "distanciaRodoviaMaceio": "32.9 km",
+    "tempoViagemMaceio": "34 min"
+  },
+  {
+    "codigo": "2702306",
+    "municipio": "Coruripe",
+    "latitude": -10.125556,
+    "longitude": -36.175556,
+    "populacao": 50414,
+    "distanciaMaceio": "73.57 km",
+    "distanciaRodoviaMaceio": "92.8 km",
+    "tempoViagemMaceio": "1 hora 26 min"
+  },
+  {
+    "codigo": "2702355",
+    "municipio": "Craíbas",
+    "latitude": -9.618056,
+    "longitude": -36.768056,
+    "populacao": 25397,
+    "distanciaMaceio": "116.51 km",
+    "distanciaRodoviaMaceio": "153 km",
+    "tempoViagemMaceio": "2 hora 20 min"
+  },
+  {
+    "codigo": "2702405",
+    "municipio": "Delmiro Gouveia",
+    "latitude": -9.388611,
+    "longitude": -37.999167,
+    "populacao": 51319,
+    "distanciaMaceio": "253.13 km",
+    "distanciaRodoviaMaceio": "298 km",
+    "tempoViagemMaceio": "4 hora 21 min"
+  },
+  {
+    "codigo": "2702504",
+    "municipio": "Dois Riachos",
+    "latitude": -9.3925,
+    "longitude": -37.100556,
+    "populacao": 9805,
+    "distanciaMaceio": "155.2 km",
+    "distanciaRodoviaMaceio": "190 km",
+    "tempoViagemMaceio": "2 hora 48 min"
+  },
+  {
+    "codigo": "2702553",
+    "municipio": "Estrela de Alagoas",
+    "latitude": -9.390278,
+    "longitude": -36.76,
+    "populacao": 15429,
+    "distanciaMaceio": "119.43 km",
+    "distanciaRodoviaMaceio": "152 km",
+    "tempoViagemMaceio": "2 hora 17 min"
+  },
+  {
+    "codigo": "2702603",
+    "municipio": "Feira Grande",
+    "latitude": -9.900278,
+    "longitude": -36.6775,
+    "populacao": 22712,
+    "distanciaMaceio": "109.73 km",
+    "distanciaRodoviaMaceio": "150 km",
+    "tempoViagemMaceio": "2 hora 15 min"
+  },
+  {
+    "codigo": "2702702",
+    "municipio": "Feliz Deserto",
+    "latitude": -10.291944,
+    "longitude": -36.306111,
+    "populacao": 3963,
+    "distanciaMaceio": "96.87 km",
+    "distanciaRodoviaMaceio": "122 km",
+    "tempoViagemMaceio": "1 hora 49 min"
+  },
+  {
+    "codigo": "2702801",
+    "municipio": "Flexeiras",
+    "latitude": -9.1975,
+    "longitude": -35.780833,
+    "populacao": 9618,
+    "distanciaMaceio": "41.79 km",
+    "distanciaRodoviaMaceio": "62.4 km",
+    "tempoViagemMaceio": "58 min"
+  },
+  {
+    "codigo": "2702900",
+    "municipio": "Girau do Ponciano",
+    "latitude": -9.884167,
+    "longitude": -36.828889,
+    "populacao": 36102,
+    "distanciaMaceio": "125.88 km",
+    "distanciaRodoviaMaceio": "162 km",
+    "tempoViagemMaceio": "2 hora 26 min"
+  },
+  {
+    "codigo": "2703007",
+    "municipio": "Ibateguara",
+    "latitude": -8.9725,
+    "longitude": -35.939444,
+    "populacao": 13731,
+    "distanciaMaceio": "78.83 km",
+    "distanciaRodoviaMaceio": "118 km",
+    "tempoViagemMaceio": "1 hora 48 min"
+  },
+  {
+    "codigo": "2703106",
+    "municipio": "Igaci",
+    "latitude": -9.536944,
+    "longitude": -36.633611,
+    "populacao": 23995,
+    "distanciaMaceio": "102.64 km",
+    "distanciaRodoviaMaceio": "134 km",
+    "tempoViagemMaceio": "2 hora 9 min"
+  },
+  {
+    "codigo": "2703205",
+    "municipio": "Igreja Nova",
+    "latitude": -10.125278,
+    "longitude": -36.661944,
+    "populacao": 21372,
+    "distanciaMaceio": "116.89 km",
+    "distanciaRodoviaMaceio": "164 km",
+    "tempoViagemMaceio": "2 hora 25 min"
+  },
+  {
+    "codigo": "2703304",
+    "municipio": "Inhapi",
+    "latitude": -9.221389,
+    "longitude": -37.748611,
+    "populacao": 15167,
+    "distanciaMaceio": "228.9 km",
+    "distanciaRodoviaMaceio": "273 km",
+    "tempoViagemMaceio": "3 hora 58 min"
+  },
+  {
+    "codigo": "2703403",
+    "municipio": "Jacaré dos Homens",
+    "latitude": -9.635556,
+    "longitude": -37.204722,
+    "populacao": 5083,
+    "distanciaMaceio": "164.52 km",
+    "distanciaRodoviaMaceio": "199 km",
+    "tempoViagemMaceio": "2 hora 57 min"
+  },
+  {
+    "codigo": "2703502",
+    "municipio": "Jacupe",
+    "latitude": -8.841667,
+    "longitude": -35.46,
+    "populacao": 5352,
+    "distanciaMaceio": "94.24 km",
+    "distanciaRodoviaMaceio": "125 km",
+    "tempoViagemMaceio": "1 hora 51 min"
+  },
+  {
+    "codigo": "2703601",
+    "municipio": "Japaratinga",
+    "latitude": -9.088333,
+    "longitude": -35.258333,
+    "populacao": 9219,
+    "distanciaMaceio": "79.4 km",
+    "distanciaRodoviaMaceio": "117 km",
+    "tempoViagemMaceio": "1 hora 46 min"
+  },
+  {
+    "codigo": "2703700",
+    "municipio": "Jaramataia",
+    "latitude": -9.659444,
+    "longitude": -37.001944,
+    "populacao": 4985,
+    "distanciaMaceio": "142.23 km",
+    "distanciaRodoviaMaceio": "176 km",
+    "tempoViagemMaceio": "2 hora 39 min"
+  },
+  {
+    "codigo": "2703759",
+    "municipio": "Jequiá da Praia",
+    "latitude": -10.014167,
+    "longitude": -36.029722,
+    "populacao": 9470,
+    "distanciaMaceio": "53.13 km",
+    "distanciaRodoviaMaceio": "68.8 km",
+    "tempoViagemMaceio": "1 hora 4 min"
+  },
+  {
+    "codigo": "2703809",
+    "municipio": "Joaquim Gomes",
+    "latitude": -9.133333,
+    "longitude": -35.748333,
+    "populacao": 17152,
+    "distanciaMaceio": "57.67 km",
+    "distanciaRodoviaMaceio": "75 km",
+    "tempoViagemMaceio": "1 hora 10 min"
+  },
+  {
+    "codigo": "2703908",
+    "municipio": "Jundiá",
+    "latitude": -8.934722,
+    "longitude": -35.573611,
+    "populacao": 4093,
+    "distanciaMaceio": "80.74 km",
+    "distanciaRodoviaMaceio": "115 km",
+    "tempoViagemMaceio": "1 hora 43 min"
+  },
+  {
+    "codigo": "2704005",
+    "municipio": "Junqueiro",
+    "latitude": -9.925278,
+    "longitude": -36.475833,
+    "populacao": 23907,
+    "distanciaMaceio": "89.38 km",
+    "distanciaRodoviaMaceio": "121 km",
+    "tempoViagemMaceio": "1 hora 53 min"
+  },
+  {
+    "codigo": "2704104",
+    "municipio": "Lagoa da Canoa",
+    "latitude": -9.829722,
+    "longitude": -36.737778,
+    "populacao": 18457,
+    "distanciaMaceio": "115.12 km",
+    "distanciaRodoviaMaceio": "150 km",
+    "tempoViagemMaceio": "2 hora 16 min"
+  },
+  {
+    "codigo": "2704203",
+    "municipio": "Limoeiro de Anadia",
+    "latitude": -9.740556,
+    "longitude": -36.502778,
+    "populacao": 24740,
+    "distanciaMaceio": "88.75 km",
+    "distanciaRodoviaMaceio": "115 km",
+    "tempoViagemMaceio": "1 hora 46 min"
+  },
+  {
+    "codigo": "2704302",
+    "municipio": "Maceió",
+    "latitude": -9.665833,
+    "longitude": -35.735278,
+    "populacao": 957916,
+    "distanciaMaceio": "0 km",
+    "distanciaRodoviaMaceio": "0 km",
+    "tempoViagemMaceio": "0"
+  },
+  {
+    "codigo": "2704401",
+    "municipio": "Major Isidoro",
+    "latitude": -9.532222,
+    "longitude": -36.985,
+    "populacao": 17700,
+    "distanciaMaceio": "140.93 km",
+    "distanciaRodoviaMaceio": "192 km",
+    "tempoViagemMaceio": "2 hora 50 min"
+  },
+  {
+    "codigo": "2704906",
+    "municipio": "Mar Vermelho",
+    "latitude": -9.4475,
+    "longitude": -36.388056,
+    "populacao": 3155,
+    "distanciaMaceio": "77.91 km",
+    "distanciaRodoviaMaceio": "106 km",
+    "tempoViagemMaceio": "1 hora 45 min"
+  },
+  {
+    "codigo": "2704500",
+    "municipio": "Maragogi",
+    "latitude": -9.012222,
+    "longitude": -35.2225,
+    "populacao": 32174,
+    "distanciaMaceio": "89.12 km",
+    "distanciaRodoviaMaceio": "127 km",
+    "tempoViagemMaceio": "1 hora 54 min"
+  },
+  {
+    "codigo": "2704609",
+    "municipio": "Maravilha",
+    "latitude": -9.235556,
+    "longitude": -37.35,
+    "populacao": 9534,
+    "distanciaMaceio": "186.44 km",
+    "distanciaRodoviaMaceio": "231 km",
+    "tempoViagemMaceio": "3 hora 24 min"
+  },
+  {
+    "codigo": "2704708",
+    "municipio": "Marechal Deodoro",
+    "latitude": -9.710278,
+    "longitude": -35.895,
+    "populacao": 60370,
+    "distanciaMaceio": "21.71 km",
+    "distanciaRodoviaMaceio": "35.7 km",
+    "tempoViagemMaceio": "39 min"
+  },
+  {
+    "codigo": "2704807",
+    "municipio": "Maribondo",
+    "latitude": -9.577222,
+    "longitude": -36.305278,
+    "populacao": 13679,
+    "distanciaMaceio": "65.96 km",
+    "distanciaRodoviaMaceio": "88.5 km",
+    "tempoViagemMaceio": "1 hora 22 min"
+  },
+  {
+    "codigo": "2705002",
+    "municipio": "Mata Grande",
+    "latitude": -9.1175,
+    "longitude": -37.732222,
+    "populacao": 21844,
+    "distanciaMaceio": "229.99 km",
+    "distanciaRodoviaMaceio": "287 km",
+    "tempoViagemMaceio": "4 hora 11 min"
+  },
+  {
+    "codigo": "2705101",
+    "municipio": "Matriz de Camaragibe",
+    "latitude": -9.151667,
+    "longitude": -35.533333,
+    "populacao": 23857,
+    "distanciaMaceio": "58.71 km",
+    "distanciaRodoviaMaceio": "76 km",
+    "tempoViagemMaceio": "1 hora 11 min"
+  },
+  {
+    "codigo": "2705200",
+    "municipio": "Messias",
+    "latitude": -9.383333,
+    "longitude": -35.841667,
+    "populacao": 15405,
+    "distanciaMaceio": "31.86 km",
+    "distanciaRodoviaMaceio": "35.4 km",
+    "tempoViagemMaceio": "36 min"
+  },
+  {
+    "codigo": "2705309",
+    "municipio": "Minador do Negrão",
+    "latitude": -9.305278,
+    "longitude": -36.864722,
+    "populacao": 4845,
+    "distanciaMaceio": "132.88 km",
+    "distanciaRodoviaMaceio": "169 km",
+    "tempoViagemMaceio": "2 hora 36 min"
+  },
+  {
+    "codigo": "2705408",
+    "municipio": "Monteirópolis",
+    "latitude": -9.602778,
+    "longitude": -37.248333,
+    "populacao": 7184,
+    "distanciaMaceio": "169.3 km",
+    "distanciaRodoviaMaceio": "206 km",
+    "tempoViagemMaceio": "3 hora 5 min"
+  },
+  {
+    "codigo": "2705507",
+    "municipio": "Murici",
+    "latitude": -9.306667,
+    "longitude": -35.943333,
+    "populacao": 25187,
+    "distanciaMaceio": "46 km",
+    "distanciaRodoviaMaceio": "54.7 km",
+    "tempoViagemMaceio": "53 min"
+  },
+  {
+    "codigo": "2705606",
+    "municipio": "Novo Lino",
+    "latitude": -8.915,
+    "longitude": -35.646667,
+    "populacao": 10024,
+    "distanciaMaceio": "78.91 km",
+    "distanciaRodoviaMaceio": "100 km",
+    "tempoViagemMaceio": "1 hora 29 min"
+  },
+  {
+    "codigo": "2705705",
+    "municipio": "Olho d'Água das Flores",
+    "latitude": -9.536111,
+    "longitude": -37.293889,
+    "populacao": 20695,
+    "distanciaMaceio": "174.56 km",
+    "distanciaRodoviaMaceio": "213 km",
+    "tempoViagemMaceio": "3 hora 10 min"
+  },
+  {
+    "codigo": "2705804",
+    "municipio": "Olho d'Água do Casado",
+    "latitude": -9.501944,
+    "longitude": -37.833889,
+    "populacao": 8349,
+    "distanciaMaceio": "233.43 km",
+    "distanciaRodoviaMaceio": "275 km",
+    "tempoViagemMaceio": "4 hora 2 min"
+  },
+  {
+    "codigo": "2705903",
+    "municipio": "Olho d'Água Grande",
+    "latitude": -10.058333,
+    "longitude": -36.816667,
+    "populacao": 4330,
+    "distanciaMaceio": "129.05 km",
+    "distanciaRodoviaMaceio": "176 km",
+    "tempoViagemMaceio": "2 hora 41 min"
+  },
+  {
+    "codigo": "2706000",
+    "municipio": "Olivença",
+    "latitude": -9.518611,
+    "longitude": -37.190556,
+    "populacao": 10812,
+    "distanciaMaceio": "163.84 km",
+    "distanciaRodoviaMaceio": "210 km",
+    "tempoViagemMaceio": "3 hora 6 min"
+  },
+  {
+    "codigo": "2706109",
+    "municipio": "Ouro Branco",
+    "latitude": -9.166667,
+    "longitude": -37.356667,
+    "populacao": 11446,
+    "distanciaMaceio": "189.14 km",
+    "distanciaRodoviaMaceio": "238 km",
+    "tempoViagemMaceio": "3 hora 31 min"
+  },
+  {
+    "codigo": "2706208",
+    "municipio": "Palestina",
+    "latitude": -9.671944,
+    "longitude": -37.329167,
+    "populacao": 4325,
+    "distanciaMaceio": "178.95 km",
+    "distanciaRodoviaMaceio": "216 km",
+    "tempoViagemMaceio": "3 hora 24 min"
+  },
+  {
+    "codigo": "2706307",
+    "municipio": "Palmeira dos Índios",
+    "latitude": -9.407222,
+    "longitude": -36.6275,
+    "populacao": 71574,
+    "distanciaMaceio": "105.03 km",
+    "distanciaRodoviaMaceio": "137 km",
+    "tempoViagemMaceio": "2 hora 4 min"
+  },
+  {
+    "codigo": "2706406",
+    "municipio": "Pão de Açúcar",
+    "latitude": -9.748333,
+    "longitude": -37.436667,
+    "populacao": 23823,
+    "distanciaMaceio": "190.29 km",
+    "distanciaRodoviaMaceio": "243 km",
+    "tempoViagemMaceio": "3 hora 44 min"
+  },
+  {
+    "codigo": "2706422",
+    "municipio": "Pariconha",
+    "latitude": -9.252778,
+    "longitude": -38.004722,
+    "populacao": 10573,
+    "distanciaMaceio": "255.25 km",
+    "distanciaRodoviaMaceio": "301 km",
+    "tempoViagemMaceio": "4 hora 27 min"
+  },
+  {
+    "codigo": "2706448",
+    "municipio": "Paripueira",
+    "latitude": -9.465,
+    "longitude": -35.551667,
+    "populacao": 13835,
+    "distanciaMaceio": "26.94 km",
+    "distanciaRodoviaMaceio": "29.4 km",
+    "tempoViagemMaceio": "31 min"
+  },
+  {
+    "codigo": "2706505",
+    "municipio": "Passo de Camaragibe",
+    "latitude": -9.238333,
+    "longitude": -35.493333,
+    "populacao": 13804,
+    "distanciaMaceio": "51.28 km",
+    "distanciaRodoviaMaceio": "72.3 km",
+    "tempoViagemMaceio": "1 hora 6 min"
+  },
+  {
+    "codigo": "2706604",
+    "municipio": "Paulo Jacinto",
+    "latitude": -9.366111,
+    "longitude": -36.369722,
+    "populacao": 6576,
+    "distanciaMaceio": "78.81 km",
+    "distanciaRodoviaMaceio": "102 km",
+    "tempoViagemMaceio": "1 hora 38 min"
+  },
+  {
+    "codigo": "2706703",
+    "municipio": "Penedo",
+    "latitude": -10.290278,
+    "longitude": -36.586389,
+    "populacao": 58647,
+    "distanciaMaceio": "119.21 km",
+    "distanciaRodoviaMaceio": "152 km",
+    "tempoViagemMaceio": "2 hora 19 min"
+  },
+  {
+    "codigo": "2706802",
+    "municipio": "Piaçabuçu",
+    "latitude": -10.405556,
+    "longitude": -36.434444,
+    "populacao": 15897,
+    "distanciaMaceio": "113.95 km",
+    "distanciaRodoviaMaceio": "141 km",
+    "tempoViagemMaceio": "2 hora 7 min"
+  },
+  {
+    "codigo": "2706901",
+    "municipio": "Pilar",
+    "latitude": -9.597222,
+    "longitude": -35.956667,
+    "populacao": 35370,
+    "distanciaMaceio": "27.49 km",
+    "distanciaRodoviaMaceio": "37.7 km",
+    "tempoViagemMaceio": "40 min"
+  },
+  {
+    "codigo": "2707008",
+    "municipio": "Pindoba",
+    "latitude": -9.475278,
+    "longitude": -36.29,
+    "populacao": 2731,
+    "distanciaMaceio": "66.46 km",
+    "distanciaRodoviaMaceio": "88.6 km",
+    "tempoViagemMaceio": "1 hora 37 min"
+  },
+  {
+    "codigo": "2707107",
+    "municipio": "Piranhas",
+    "latitude": -9.623611,
+    "longitude": -37.756667,
+    "populacao": 22609,
+    "distanciaMaceio": "225.33 km",
+    "distanciaRodoviaMaceio": "278 km",
+    "tempoViagemMaceio": "4 hora 3 min"
+  },
+  {
+    "codigo": "2707206",
+    "municipio": "Poço das Trincheiras",
+    "latitude": -9.3125,
+    "longitude": -37.285556,
+    "populacao": 12518,
+    "distanciaMaceio": "177.27 km",
+    "distanciaRodoviaMaceio": "218 km",
+    "tempoViagemMaceio": "3 hora 11 min"
+  },
+  {
+    "codigo": "2707305",
+    "municipio": "Porto Calvo",
+    "latitude": -9.045,
+    "longitude": -35.398333,
+    "populacao": 24071,
+    "distanciaMaceio": "74.72 km",
+    "distanciaRodoviaMaceio": "98.7 km",
+    "tempoViagemMaceio": "1 hora 29 min"
+  },
+  {
+    "codigo": "2707404",
+    "municipio": "Porto de Pedras",
+    "latitude": -9.158333,
+    "longitude": -35.295,
+    "populacao": 9295,
+    "distanciaMaceio": "70.24 km",
+    "distanciaRodoviaMaceio": "109 km",
+    "tempoViagemMaceio": "1 hora 41 min"
+  },
+  {
+    "codigo": "2707503",
+    "municipio": "Porto Real do Colégio",
+    "latitude": -10.185833,
+    "longitude": -36.84,
+    "populacao": 20079,
+    "distanciaMaceio": "137.4 km",
+    "distanciaRodoviaMaceio": "176 km",
+    "tempoViagemMaceio": "2 hora 36 min"
+  },
+  {
+    "codigo": "2707602",
+    "municipio": "Quebrangulo",
+    "latitude": -9.318889,
+    "longitude": -36.471111,
+    "populacao": 11080,
+    "distanciaMaceio": "91.21 km",
+    "distanciaRodoviaMaceio": "118 km",
+    "tempoViagemMaceio": "1 hora 53 min"
+  },
+  {
+    "codigo": "2707701",
+    "municipio": "Rio Largo",
+    "latitude": -9.478333,
+    "longitude": -35.853333,
+    "populacao": 93927,
+    "distanciaMaceio": "23.9 km",
+    "distanciaRodoviaMaceio": "29.8 km",
+    "tempoViagemMaceio": "35 min"
+  },
+  {
+    "codigo": "2707800",
+    "municipio": "Roteiro",
+    "latitude": -9.832778,
+    "longitude": -35.977778,
+    "populacao": 6474,
+    "distanciaMaceio": "36.08 km",
+    "distanciaRodoviaMaceio": "57.9 km",
+    "tempoViagemMaceio": "1 hora 1 min"
+  },
+  {
+    "codigo": "2707909",
+    "municipio": "Santa Luzia do Norte",
+    "latitude": -9.603333,
+    "longitude": -35.8225,
+    "populacao": 6919,
+    "distanciaMaceio": "13.57 km",
+    "distanciaRodoviaMaceio": "26.5 km",
+    "tempoViagemMaceio": "29 min"
+  },
+  {
+    "codigo": "2708006",
+    "municipio": "Santana do Ipanema",
+    "latitude": -9.378333,
+    "longitude": -37.245278,
+    "populacao": 46220,
+    "distanciaMaceio": "171.85 km",
+    "distanciaRodoviaMaceio": "207 km",
+    "tempoViagemMaceio": "3 hora 3 min"
+  },
+  {
+    "codigo": "2708105",
+    "municipio": "Santana do Mundaú",
+    "latitude": -9.168056,
+    "longitude": -36.222222,
+    "populacao": 11323,
+    "distanciaMaceio": "77.18 km",
+    "distanciaRodoviaMaceio": "105 km",
+    "tempoViagemMaceio": "1 hora 38 min"
+  },
+  {
+    "codigo": "2708204",
+    "municipio": "São Brás",
+    "latitude": -10.127778,
+    "longitude": -36.900556,
+    "populacao": 6555,
+    "distanciaMaceio": "140.44 km",
+    "distanciaRodoviaMaceio": "187 km",
+    "tempoViagemMaceio": "2 hora 48 min"
+  },
+  {
+    "codigo": "2708303",
+    "municipio": "São José da Laje",
+    "latitude": -9.009722,
+    "longitude": -36.058333,
+    "populacao": 20813,
+    "distanciaMaceio": "80.26 km",
+    "distanciaRodoviaMaceio": "99.1 km",
+    "tempoViagemMaceio": "1 hora 31 min"
+  },
+  {
+    "codigo": "2708402",
+    "municipio": "São José da Tapera",
+    "latitude": -9.558333,
+    "longitude": -37.381111,
+    "populacao": 30604,
+    "distanciaMaceio": "184.08 km",
+    "distanciaRodoviaMaceio": "223 km",
+    "tempoViagemMaceio": "3 hora 18 min"
+  },
+  {
+    "codigo": "2708501",
+    "municipio": "São LuÁ­s do Quitunde",
+    "latitude": -9.318333,
+    "longitude": -35.561111,
+    "populacao": 30873,
+    "distanciaMaceio": "40.3 km",
+    "distanciaRodoviaMaceio": "53 km",
+    "tempoViagemMaceio": "50 min"
+  },
+  {
+    "codigo": "2708600",
+    "municipio": "São Miguel dos Campos",
+    "latitude": -9.781111,
+    "longitude": -36.093611,
+    "populacao": 51990,
+    "distanciaMaceio": "45.15 km",
+    "distanciaRodoviaMaceio": "63.6 km",
+    "tempoViagemMaceio": "1 hora 3 min"
+  },
+  {
+    "codigo": "2708709",
+    "municipio": "São Miguel dos Milagres",
+    "latitude": -9.265556,
+    "longitude": -35.373056,
+    "populacao": 8482,
+    "distanciaMaceio": "56.16 km",
+    "distanciaRodoviaMaceio": "93.6 km",
+    "tempoViagemMaceio": "1 hora 25 min"
+  },
+  {
+    "codigo": "2708808",
+    "municipio": "São Sebastião",
+    "latitude": -9.933611,
+    "longitude": -36.554167,
+    "populacao": 31786,
+    "distanciaMaceio": "97.75 km",
+    "distanciaRodoviaMaceio": "131 km",
+    "tempoViagemMaceio": "1 hora 58 min"
+  },
+  {
+    "codigo": "2708907",
+    "municipio": "Satuba",
+    "latitude": -9.563333,
+    "longitude": -35.824444,
+    "populacao": 24278,
+    "distanciaMaceio": "15.47 km",
+    "distanciaRodoviaMaceio": "21.2 km",
+    "tempoViagemMaceio": "23 min"
+  },
+  {
+    "codigo": "2708956",
+    "municipio": "Senador Rui Palmeira",
+    "latitude": -9.466389,
+    "longitude": -37.456944,
+    "populacao": 12302,
+    "distanciaMaceio": "193.03 km",
+    "distanciaRodoviaMaceio": "239 km",
+    "tempoViagemMaceio": "3 hora 32 min"
+  },
+  {
+    "codigo": "2709004",
+    "municipio": "Tanque d'Arca",
+    "latitude": -9.531944,
+    "longitude": -36.432778,
+    "populacao": 5796,
+    "distanciaMaceio": "80.48 km",
+    "distanciaRodoviaMaceio": "108 km",
+    "tempoViagemMaceio": "1 hora 41 min"
+  },
+  {
+    "codigo": "2709103",
+    "municipio": "Taquarana",
+    "latitude": -9.645,
+    "longitude": -36.497222,
+    "populacao": 19032,
+    "distanciaMaceio": "86.07 km",
+    "distanciaRodoviaMaceio": "114 km",
+    "tempoViagemMaceio": "1 hora 45 min"
+  },
+  {
+    "codigo": "2709152",
+    "municipio": "Teotônio Vilela",
+    "latitude": -9.905278,
+    "longitude": -36.352778,
+    "populacao": 38053,
+    "distanciaMaceio": "76.98 km",
+    "distanciaRodoviaMaceio": "104 km",
+    "tempoViagemMaceio": "1 hora 37 min"
+  },
+  {
+    "codigo": "2709202",
+    "municipio": "Traipu",
+    "latitude": -9.970556,
+    "longitude": -37.003333,
+    "populacao": 23565,
+    "distanciaMaceio": "146.45 km",
+    "distanciaRodoviaMaceio": "190 km",
+    "tempoViagemMaceio": "2 hora 49 min"
+  },
+  {
+    "codigo": "2709301",
+    "municipio": "União dos Palmares",
+    "latitude": -9.162778,
+    "longitude": -36.031944,
+    "populacao": 59280,
+    "distanciaMaceio": "64.53 km",
+    "distanciaRodoviaMaceio": "78.7 km",
+    "tempoViagemMaceio": "1 hora 14 min"
+  },
+  {
+    "codigo": "2709400",
+    "municipio": "Viçosa",
+    "latitude": -9.371389,
+    "longitude": -36.240833,
+    "populacao": 24092,
+    "distanciaMaceio": "66.54 km",
+    "distanciaRodoviaMaceio": "83.1 km",
+    "tempoViagemMaceio": "1 hora 21 min"
+  }
+]

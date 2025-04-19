@@ -1,0 +1,33 @@
+Lista de Exercícios
+
+Otimização Combinatória e Contínua
+Pesquisa Operacional
+
+1. Implementação de uma Meta-heurística de Solução Única para o Bin Packing.
+O problema do Bin Packing (BP) é um problema clássico da Otimização
+
+Combinatória e da Teoria da Computação, pertencente à classe de problemas
+NP-difíceis. Ele consiste em distribuir um conjunto de itens em um
+
+número mínimo de recipientes (bins), respeitando a capacidade máxima
+de cada recipiente (unitária).
+Bin Packing
+Entrada: Conjunto U com n itens, em que cada item u ∈ U possui
+um tamanho su tal que 0 ≤ su ≤ 1.
+Objetivo: Encontrar uma partição de U em k conjuntos disjuntos
+U1, . . . , Uk de forma que para todo i, a soma de todos os itens em
+cada Ui não exceda 1, e que o valor de k seja minimizado.
+Implemente uma meta-heurística de solução única (baseada em busca
+local) para resolver instâncias do BP. Sua solução deve incluir:
+(a) Representação da solução: Como será modelada e manipulada.
+(b) Função de avaliação: Como calcular o custo de uma solução.
+
+(c) Estratégia de busca local: Defina uma vizinhança apropriada (exemplo:
+troca de itens entre dois recipientes) e implemente uma busca
+
+local best ou first improvement.
+(d) Critério de parada: O algoritmo deve receber um tempo limite em
+segundos via linha de comando.
+
+2. Implemente todos os modelos de Programação Linear (Inteira) vistos em
+aula.
