@@ -4,7 +4,7 @@
 
 run code e resultado carregados em: ```lista01.ipynb```
 
-O requirements desse projeto foi criado com `pip` (tipo `venv` ou `virtualenv`). Acredito que o requirements não é compátivel com `conda`.
+O requirements desse projeto foi criado com `pip` (tipo `venv` ou `virtualenv`). Não é compátivel com `conda`.
 
 ## Conteúdo do Notebook
 
