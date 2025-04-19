@@ -13,7 +13,7 @@ O requirements desse projeto foi criado com `pip` (tipo `venv` ou `virtualenv`).
 ### Questão II
 - **Cell 4**: Problema das Formas - Análise e agrupamento espacial de cidades usando algoritmo guloso (GDA) e busca local guiada (GLS). Foi feita com dados reais do estado de Alagoas, população e localizações. Na GLS, Maceió ficou fora porque o algoritmo levou em consideração a população para definir a região.
 
-- **Cell 5**: Problema do Plantio resolvido com Algoritmo Genético (AG). Usei dados como de consumo de água da cultivar por m³ e valores por hectare das culturas, com uma pequena normalização dos valores para equilibrar as decisões e permitir uma visualização mais rica dos resultados. Também incluí penalizações para monoculturas, forçando a presença de pelo menos duas culturas diferentes em cada fazenda. O principal fator limitante para atingir 100% da área disponível foi o consumo de água, que atingiu exatamente % da capacidade hídrica em todas as fazenda
+- **Cell 5**: Problema do Plantio resolvido com Algoritmo Genético (AG). Usei dados como de consumo de água da cultivar por m³ e valores por hectare das culturas, com uma pequena normalização dos valores para equilibrar as decisões e permitir uma visualização mais rica dos resultados. Também incluí penalizações para monoculturas, forçando a presença de pelo menos duas culturas diferentes em cada fazenda.
 
 - **Cell 6**: Problema da ração animal resolvido usando Programação Linear. Implementei tanto o método gráfico (visual) quanto o PuLP para resolver e comparar resultados.
 
