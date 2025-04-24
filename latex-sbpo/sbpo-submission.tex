@@ -1,0 +1,173 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage{sbpo-template}
+\usepackage[brazil]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb}
+\usepackage{url}
+\usepackage[square]{natbib}
+\usepackage{indentfirst}
+\usepackage{fancyhdr}
+\usepackage{graphicx} 
+\usepackage{float}
+\usepackage{booktabs,array}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage[htt]{hyphenat}
+\usepackage{multicol}
+\usepackage{enumitem}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[C]{\includegraphics[scale=0.32]{sbpo2025-header-logo.png}}
+\renewcommand{\headruleskip}{-1mm}
+\setlength\headheight{86pt}
+\addtolength{\textheight}{-86pt}
+\setlength{\headsep}{5mm}
+\setlength{\footskip}{4.08003pt}
+
+\begin{document}
+
+\title{Otimização da Observação Ambiental em APAs com Sentinel-2: Integração entre Heurística e Programação Inteira Mista}
+
+\maketitle
+\thispagestyle{fancy}
+
+\vspace{8mm}
+\begin{resumo}
+Este artigo apresenta uma abordagem híbrida para otimização da cobertura de imagens Sentinel-2 (óptico) em Áreas de Proteção Ambiental (APAs) de Alagoas. A metodologia combina uma heurística construtiva gulosa com função de avaliação multicritério para identificação de grupos potenciais de mosaicos Sentinel-2, seguida por uma otimização exata via Programação Linear Inteira Mista (MILP). O objetivo é maximizar a cobertura útil qualificada das áreas monitoradas, considerando cobertura de nuvens, pixels válidos e compatibilidade de órbitas. O modelo MILP incorpora um custo proxy para penalizar a seleção de grupos, representando o desincentivo ao uso de dados SAR (Sentinel-1) como fallback. Os resultados demonstram que a abordagem híbrida proporciona soluções de alta qualidade, equilibrando eficiência computacional e otimalidade na seleção de imagens Sentinel-2.
+\end{resumo}
+
+\bigskip
+\begin{palchaves}
+Heurística Construtiva Gulosa. Otimização Híbrida. Sensoriamento Remoto. Programação Linear Inteira Mista. Sentinel-2.
+
+\bigskip
+Sensoriamento Remoto. Pesquisa Operacional em Meio Ambiente. Otimização Combinatória.
+\end{palchaves}
+
+\vspace{8mm}
+
+\begin{abstract}
+This paper presents a hybrid approach to optimize Sentinel-2 image coverage over Environmental Protection Areas (APAs) in Alagoas, Brazil. The methodology combines a greedy constructive heuristic with a multi-criteria evaluation function to identify potential Sentinel-2 mosaic groups, followed by an exact optimization using Mixed-Integer Linear Programming (MILP). The goal is to maximize the qualified useful coverage of monitored areas, considering cloud cover, valid pixels, and orbit compatibility. The MILP model incorporates a proxy cost to penalize the use of Sentinel-1 (SAR) fallback. Results show that the hybrid approach yields high-quality solutions, balancing computational efficiency and optimality in selecting Sentinel-2 imagery.
+\end{abstract}
+
+\bigskip
+\begin{keywords}
+Greedy Constructive Heuristic. Hybrid Optimization. Remote Sensing. Mixed-Integer Linear Programming. Sentinel-2.
+
+\bigskip
+Remote Sensing. Environmental Operations Research. Combinatorial Optimization.
+\end{keywords}
+
+\newpage
+
+\section{Introdução}
+O monitoramento eficiente de Áreas de Proteção Ambiental (APAs) é fundamental para a conservação dos recursos naturais. Este estudo foca nas APAs de Murici, Santa Rita, Catolé e Fernão Velho, e Pratagy, em Alagoas, que somam cerca de 163.956 hectares. O objetivo é otimizar a seleção de imagens Sentinel-2 (ópticas) para maximizar a cobertura útil dessas áreas entre 13 de abril de 2024 e 13 de abril de 2025, considerando limitações climáticas, principalmente a alta cobertura de nuvens, comum na região costeira do estado.
+
+Além da cobertura de nuvens, fatores como qualidade intrínseca dos pixels e sobreposição entre cenas adjacentes são críticos para a composição de mosaicos úteis. Para lidar com isso, o problema foi formalizado como um modelo de Programação Linear Inteira Mista (MILP) multiobjetivo, visando simultaneamente maximizar a cobertura espacial e minimizar nuvens e custo de aquisição, considerando o uso complementar de imagens Sentinel-1 (SAR) como penalidade adicional.
+
+\section{Objetivos}
+Este trabalho tem como objetivo otimizar a seleção de imagens Sentinel-2 para as APAs de Alagoas, por meio de uma abordagem híbrida que:
+
+\begin{itemize} \item Gera combinações iniciais de imagens utilizando heurística construtiva gulosa com avaliação multicritério (cobertura geográfica, qualidade dos pixels, nuvens e compatibilidade orbital); \item Aplica um modelo MILP para selecionar a combinação final de mosaicos, incorporando o uso complementar de Sentinel-1 (SAR) como custo proxy para compensar limitações ópticas. \end{itemize}
+
+\section{Caracterização das Imagens}
+Os satélites Sentinel-1 (Radar de Abertura Sintética - SAR) e Sentinel-2 (multiespectral/óptico), componentes do programa Copernicus da Agência Espacial Europeia (ESA), oferecem capacidades complementares para o monitoramento ambiental. Sentinel-2 fornece imagens ópticas de alta resolução espacial (até 10 metros) em 13 bandas espectrais, ideais para análise de vegetação e uso do solo, mas sua aquisição é impedida pela cobertura de nuvens. Sentinel-1, com seu sensor SAR, opera independentemente das condições atmosféricas e de iluminação, fornecendo dados valiosos em regiões com nebulosidade frequente, embora com características de resolução e interpretação distintas das imagens ópticas.
+
+\section{Metodologia}
+
+\subsection{Abordagem Híbrida de Otimização}
+Nossa metodologia consiste em duas fases para otimizar a seleção de imagens Sentinel-2:
+
+\begin{itemize}
+    \item \textbf{Fase 1: Heurística Construtiva Gulosa} - Para reduzir a complexidade combinatória, usamos uma heurística construtiva gulosa baseada em fatores de qualidade extraídos dos metadados (data, nuvens e cobertura geográfica). Li, Liu \& Liu propuseram o DD‑RSIRA, que gera uma solução inicial ponderando data de aquisição, \texttt{CLOUDY\_PIXEL\_PERCENTAGE} e extensão territorial, seguida de refinamento por busca local com esquema ganho‑perda. Zhang et al. apresentaram um método exato para extrair subconjuntos mínimos de um acervo altamente redundante, formulando o problema como cobertura de conjuntos e resolvendo-o de forma ótima.
+    \item \textbf{Fase 2: Otimização Exata via MILP} - Com a lista de candidatos reduzida pela heurística, adotamos um modelo MILP com variáveis binárias para cada grupo de cenas, impondo restrições de cobertura geográfica, limite máximo de nuvens e orçamento. Essa formulação segue diretamente Combarro Simón et al. e incorpora conceitos de agendamento de janelas temporais e transição de atitude de Kim et al.
+\end{itemize}
+
+\subsection{Notação Matemática Relevante}
+Os principais parâmetros e variáveis do modelo incluem:
+\begin{multicols}{2}
+    \begin{itemize}[leftmargin=*,noitemsep,topsep=0pt]
+        \item $C_i$: Cobertura efetiva de cada imagem 
+        \item $C_g$: Cobertura geográfica de uma imagem
+        \item $P_x$: \% Pixels válidos de cada imagem 
+        \item $C_n$: Cobertura geográfica normalizada
+        \item $Q$: Fator de qualidade da imagem
+        \item $C_c$: \% Cobertura de nuvens
+        \item $G$: Conjunto de grupos de mosaico candidatos identificados pela heurística
+        \item $y_g$: Variável binária indicando se o grupo $g$ é selecionado (1) ou não (0)
+        \item $E_g$: Cobertura geográfica estimada do grupo $g$
+        \item $Q_g$: Fator de qualidade médio do grupo $g$
+        \item $\beta$: Peso para penalizar a seleção de qualquer grupo (proxy para custo SAR)
+    \end{itemize}
+    \end{multicols}
+    
+
+\subsection{Fase 1: Heurística Construtiva Gulosa}
+
+\subsubsection{Classificação de Imagens}
+As imagens Sentinel-2 são classificadas como "centrais" ou "complementos" com base na cobertura efetiva:
+\begin{equation}
+C_i = C_g \times P_x
+\end{equation}
+
+\subsubsection{Função de Avaliação Multi-Critério}
+A qualidade de uma imagem candidata é avaliada pela função de efetividade $E$:
+\begin{equation}
+E = C_n \times Q
+\end{equation}
+Onde $C_n$ é a cobertura normalizada e $Q$ é o fator de qualidade:
+\begin{align}
+Q = (1 - C_c) \times P_x
+\end{align}
+
+\subsection{Fase 2: Modelo de Programação Linear Inteira Mista}
+\subsubsection{Função Objetivo}
+\begin{equation}
+\max \left( \sum_{g \in G} (E_g \times Q_g \times y_g) - \alpha \sum_{g \in G} y_g - \beta \sum_{g \in G} y_g \right)
+\end{equation}
+
+\subsubsection{Restrições Principais}
+\begin{align}
+    \sum_{g \in G} y_g &\leq N_{\max} \\
+    \sum_{g \in G : i \in img(g)} y_g &\leq 1, \quad \forall i \in I'
+\end{align}
+
+\section{Resultados}
+Observou-se que, com os parâmetros estimados diretamente, o espaço viável definido pelas restrições é bastante restrito, dificultando a obtenção de soluções ótimas viáveis. Para fins de análise geométrica e visualização da estrutura do modelo, aplicou-se um relaxamento controlado das restrições, permitindo identificar o poliedro viável ampliado. Essa abordagem não interfere nos resultados obtidos via programação inteira mista, sendo utilizada apenas para fins exploratórios e de análise da sensibilidade do modelo.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{optimization_visualization.png}
+    \caption{
+        Região viável considerando relaxamento de 0{,}33 nas restrições:
+        $y_1 + y_2 \leq E_1 + 0{,}33$, 
+        $y_1 \geq Q_1 - 0{,}33$, 
+        $y_2 \leq E_2 + 0{,}33$, 
+        $y_2 \geq Q_2 - 0{,}33$.
+    }
+    \label{fig:areas}
+\end{figure}
+
+A aplicação da metodologia híbrida resultou na seleção otimizada de grupos de mosaicos Sentinel-2 para a cobertura das APAs estudadas. A fase heurística identificou potenciais combinações de imagens, e a subsequente otimização via MILP selecionou o conjunto final.
+
+\subsection{Estatísticas do Processamento e Otimização}
+\begin{itemize}
+    \item \textbf{Total de imagens Sentinel-2 consideradas no período:} 310
+    \item \textbf{Potenciais combinações de mosaicos identificadas pela heurística:} 40
+    \item \textbf{Total de grupos de mosaico selecionados pela otimização MILP:} 24
+\end{itemize}
+
+A otimização MILP, implementada com o solver CPLEX e utilizando os parâmetros $\alpha=0.05$ e $\beta=0.1$, selecionou 24 grupos de mosaicos. Este resultado representa a solução que maximiza a função objetivo (Equação 4), equilibrando a cobertura geográfica estimada ($E_g$) e o fator de qualidade ($Q_g$) dos grupos selecionados, ao mesmo tempo que aplica penalidades pelo número de grupos e pelo custo implícito associado ao fallback para SAR (modelado por $\beta$).
+
+\section{Conclusão}
+Este artigo apresentou uma abordagem híbrida para otimização da cobertura de imagens Sentinel-2 em APAs de Alagoas, combinando uma heurística construtiva gulosa com função de avaliação multicritério e um modelo MILP. Esta metodologia em duas fases permite lidar com a complexidade combinatória do problema: a heurística identifica eficientemente grupos potenciais de imagens para mosaicos, e o MILP otimiza a seleção final desses grupos pré-definidos.
+
+Os resultados preliminares indicam que a abordagem híbrida proporciona soluções de alta qualidade, equilibrando eficiência computacional e otimalidade. A heurística consegue identificar eficientemente grupos de imagens compatíveis, e o modelo MILP complementa esta análise com uma otimização global, considerando as restrições e guiado por penalidades ajustáveis que permitem modelar trade-offs como o desincentivo ao uso implícito de dados SAR (representado pelo parâmetro $\beta$).
+
+% \bibliographystyle{sbpo}
+% \bibliography{references}
+% \nocite{*}
+
+\end{document}

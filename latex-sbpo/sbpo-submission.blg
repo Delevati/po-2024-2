@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: sbpo-submission.aux
+The style file: sbpo.bst
+Database file #1: references.bib
+You've used 6 entries,
+            2646 wiz_defined-function locations,
+            616 strings with 6200 characters,
+and the built_in function-call counts, 3141 in all, are:
+= -- 264
+> -- 248
+< -- 0
++ -- 91
+- -- 84
+* -- 282
+:= -- 560
+add.period$ -- 20
+call.type$ -- 6
+change.case$ -- 52
+chr.to.int$ -- 6
+cite$ -- 6
+duplicate$ -- 103
+empty$ -- 197
+format.name$ -- 90
+if$ -- 611
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 4
+newline$ -- 38
+num.names$ -- 24
+pop$ -- 80
+preamble$ -- 1
+purify$ -- 46
+quote$ -- 0
+skip$ -- 73
+stack$ -- 0
+substring$ -- 74
+swap$ -- 7
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 66
+warning$ -- 0
+while$ -- 22
+width$ -- 0
+write$ -- 84

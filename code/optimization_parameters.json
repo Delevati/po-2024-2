@@ -1,0 +1,2211 @@
+{
+  "image_catalog": [
+    {
+      "filename": "S2A_MSIL2A_20240526T124321_N0510_R009_T24LZQ_20240526T183851.SAFE.zip",
+      "class": "central",
+      "date": "2024-05-26T12:43:21.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.751484837311019,
+      "cloud_coverage": 0.182631527480875,
+      "quality_factor": 0.817368472519125
+    },
+    {
+      "filename": "S2A_MSIL2A_20240526T124321_N0510_R009_T24LZR_20240526T183851.SAFE.zip",
+      "class": "central",
+      "date": "2024-05-26T12:43:21.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.4522037204194686,
+      "effective_coverage": 0.4522037204194686,
+      "cloud_coverage": 0.2697845534199733,
+      "quality_factor": 0.7302154465800267
+    },
+    {
+      "filename": "S2A_MSIL2A_20240804T124321_N0511_R009_T24LZQ_20240804T183750.SAFE.zip",
+      "class": "central",
+      "date": "2024-08-04T12:43:21.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.7512460317714911,
+      "cloud_coverage": 0.39055215605922355,
+      "quality_factor": 0.6092541746690089
+    },
+    {
+      "filename": "S2A_MSIL2A_20240903T124321_N0511_R009_T24LZQ_20240903T165646.SAFE.zip",
+      "class": "central",
+      "date": "2024-09-03T12:43:21.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.751484837311019,
+      "cloud_coverage": 0.033876490027412554,
+      "quality_factor": 0.9661235099725874
+    },
+    {
+      "filename": "S2A_MSIL2A_20240903T124321_N0511_R009_T24LZR_20240903T165646.SAFE.zip",
+      "class": "central",
+      "date": "2024-09-03T12:43:21.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.4522037204194686,
+      "effective_coverage": 0.4522037204194686,
+      "cloud_coverage": 0.06902704889713725,
+      "quality_factor": 0.9309729511028627
+    },
+    {
+      "filename": "S2A_MSIL2A_20240913T124251_N0511_R009_T24LZR_20240913T165749.SAFE.zip",
+      "class": "central",
+      "date": "2024-09-13T12:42:51.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.4522037204194686,
+      "effective_coverage": 0.4522034772406494,
+      "cloud_coverage": 0.3150086158214099,
+      "quality_factor": 0.6849910158149778
+    },
+    {
+      "filename": "S2A_MSIL2A_20241013T124251_N0511_R009_T24LZQ_20241013T151149.SAFE.zip",
+      "class": "central",
+      "date": "2024-10-13T12:42:51.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.751484837311019,
+      "cloud_coverage": 0.2972636662882573,
+      "quality_factor": 0.7027363337117427
+    },
+    {
+      "filename": "S2A_MSIL2A_20241013T124251_N0511_R009_T24LZR_20241013T151149.SAFE.zip",
+      "class": "central",
+      "date": "2024-10-13T12:42:51.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.4522037204194686,
+      "effective_coverage": 0.4522037204194686,
+      "cloud_coverage": 0.2892111217439476,
+      "quality_factor": 0.7107888782560524
+    },
+    {
+      "filename": "S2A_MSIL2A_20241112T124251_N0511_R009_T24LZQ_20241112T151546.SAFE.zip",
+      "class": "central",
+      "date": "2024-11-12T12:42:51.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.751484837311019,
+      "cloud_coverage": 0.19967063489236703,
+      "quality_factor": 0.800329365107633
+    },
+    {
+      "filename": "S2A_MSIL2A_20241112T124251_N0511_R009_T24LZR_20241112T151546.SAFE.zip",
+      "class": "central",
+      "date": "2024-11-12T12:42:51.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.4522037204194686,
+      "effective_coverage": 0.4522037204194686,
+      "cloud_coverage": 0.3496545880390799,
+      "quality_factor": 0.6503454119609201
+    },
+    {
+      "filename": "S2A_MSIL2A_20241122T124251_N0511_R009_T24LZQ_20241122T151757.SAFE.zip",
+      "class": "central",
+      "date": "2024-11-22T12:42:51.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.751484837311019,
+      "cloud_coverage": 0.3176595649608887,
+      "quality_factor": 0.6823404350391113
+    },
+    {
+      "filename": "S2A_MSIL2A_20241202T124251_N0511_R009_T24LZQ_20241202T151252.SAFE.zip",
+      "class": "central",
+      "date": "2024-12-02T12:42:51.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.751484837311019,
+      "cloud_coverage": 0.3799902602217483,
+      "quality_factor": 0.6200097397782517
+    },
+    {
+      "filename": "S2A_MSIL2A_20241202T124251_N0511_R009_T24LZR_20241202T151252.SAFE.zip",
+      "class": "central",
+      "date": "2024-12-02T12:42:51.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.4522037204194686,
+      "effective_coverage": 0.4522037204194686,
+      "cloud_coverage": 0.3434744085656363,
+      "quality_factor": 0.6565255914343637
+    },
+    {
+      "filename": "S2A_MSIL2A_20241212T124251_N0511_R009_T24LZQ_20241212T151445.SAFE.zip",
+      "class": "central",
+      "date": "2024-12-12T12:42:51.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.7514837404751651,
+      "cloud_coverage": 0.13655635374822803,
+      "quality_factor": 0.8634423860055207
+    },
+    {
+      "filename": "S2A_MSIL2A_20241212T124251_N0511_R009_T24LZR_20241212T151445.SAFE.zip",
+      "class": "central",
+      "date": "2024-12-12T12:42:51.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.4522037204194686,
+      "effective_coverage": 0.4522034164459446,
+      "cloud_coverage": 0.1626877709067326,
+      "quality_factor": 0.8373116662479446
+    },
+    {
+      "filename": "S2A_MSIL2A_20241222T124251_N0511_R009_T24LZQ_20241222T151158.SAFE.zip",
+      "class": "central",
+      "date": "2024-12-22T12:42:51.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.7514847763756938,
+      "cloud_coverage": 0.2883958701785993,
+      "quality_factor": 0.7116040721198651
+    },
+    {
+      "filename": "S2A_MSIL2A_20241222T124251_N0511_R009_T24LZR_20241222T151158.SAFE.zip",
+      "class": "central",
+      "date": "2024-12-22T12:42:51.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.4522037204194686,
+      "effective_coverage": 0.4522037204194686,
+      "cloud_coverage": 0.3646536934121608,
+      "quality_factor": 0.6353463065878392
+    },
+    {
+      "filename": "S2A_MSIL2A_20250101T124251_N0511_R009_T24LZQ_20250101T170150.SAFE.zip",
+      "class": "central",
+      "date": "2025-01-01T12:42:51.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.751484837311019,
+      "cloud_coverage": 0.389096046258766,
+      "quality_factor": 0.610903953741234
+    },
+    {
+      "filename": "S2A_MSIL2A_20250101T124251_N0511_R009_T24LZR_20250101T170150.SAFE.zip",
+      "class": "central",
+      "date": "2025-01-01T12:42:51.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.4522037204194686,
+      "effective_coverage": 0.4522037204194686,
+      "cloud_coverage": 0.37476647013531167,
+      "quality_factor": 0.6252335298646883
+    },
+    {
+      "filename": "S2A_MSIL2A_20250314T124331_N0511_R009_T24LZR_20250314T153311.SAFE.zip",
+      "class": "central",
+      "date": "2025-03-14T12:43:31.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.4522037204194686,
+      "effective_coverage": 0.4522037204194686,
+      "cloud_coverage": 0.3821018735583208,
+      "quality_factor": 0.6178981264416792
+    },
+    {
+      "filename": "S2A_MSIL2A_20250324T124331_N0511_R009_T24LZQ_20250324T151715.SAFE.zip",
+      "class": "central",
+      "date": "2025-03-24T12:43:31.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.751484837311019,
+      "cloud_coverage": 0.15383118451634295,
+      "quality_factor": 0.8461688154836571
+    },
+    {
+      "filename": "S2A_MSIL2A_20250324T124331_N0511_R009_T24LZR_20250324T151715.SAFE.zip",
+      "class": "central",
+      "date": "2025-03-24T12:43:31.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.4522037204194686,
+      "effective_coverage": 0.4522037204194686,
+      "cloud_coverage": 0.1878990559939735,
+      "quality_factor": 0.8121009440060265
+    },
+    {
+      "filename": "S2A_MSIL2A_20250403T124331_N0511_R009_T24LZQ_20250403T220514.SAFE.zip",
+      "class": "central",
+      "date": "2025-04-03T12:43:31.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.751484837311019,
+      "cloud_coverage": 0.256033773199161,
+      "quality_factor": 0.743966226800839
+    },
+    {
+      "filename": "S2A_MSIL2A_20250403T124331_N0511_R009_T24LZR_20250403T220514.SAFE.zip",
+      "class": "central",
+      "date": "2025-04-03T12:43:31.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.4522037204194686,
+      "effective_coverage": 0.4515257986662082,
+      "cloud_coverage": 0.2475188207473923,
+      "quality_factor": 0.7513530961845135
+    },
+    {
+      "filename": "S2B_MSIL2A_20240501T124249_N0510_R009_T24LZQ_20240501T162152.SAFE.zip",
+      "class": "central",
+      "date": "2024-05-01T12:42:49.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.7491909879285268,
+      "cloud_coverage": 0.28019574104882644,
+      "quality_factor": 0.7176071120854849
+    },
+    {
+      "filename": "S2B_MSIL2A_20240501T124249_N0510_R009_T24LZR_20240501T162152.SAFE.zip",
+      "class": "central",
+      "date": "2024-05-01T12:42:49.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.4522037204194686,
+      "effective_coverage": 0.45190217868364474,
+      "cloud_coverage": 0.32278515359911364,
+      "quality_factor": 0.6767632611283902
+    },
+    {
+      "filename": "S2B_MSIL2A_20240630T124259_N0510_R009_T24LZR_20240630T133118.SAFE.zip",
+      "class": "central",
+      "date": "2024-06-30T12:42:59.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.4522037204194686,
+      "effective_coverage": 0.4522036596247638,
+      "cloud_coverage": 0.01390244859119096,
+      "quality_factor": 0.986097418836902
+    },
+    {
+      "filename": "S2B_MSIL2A_20240730T124249_N0511_R009_T24LZQ_20240730T143724.SAFE.zip",
+      "class": "central",
+      "date": "2024-07-30T12:42:49.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.7514845326343929,
+      "cloud_coverage": 0.3410395659063725,
+      "quality_factor": 0.6589601669294323
+    },
+    {
+      "filename": "S2B_MSIL2A_20240730T124249_N0511_R009_T24LZR_20240730T143724.SAFE.zip",
+      "class": "central",
+      "date": "2024-07-30T12:42:49.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.4522037204194686,
+      "effective_coverage": 0.4522037204194686,
+      "cloud_coverage": 0.32768115389141217,
+      "quality_factor": 0.6723188461085878
+    },
+    {
+      "filename": "S2B_MSIL2A_20240829T124249_N0511_R009_T24LZQ_20240829T133939.SAFE.zip",
+      "class": "central",
+      "date": "2024-08-29T12:42:49.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.4908080861794162,
+      "cloud_coverage": 0.1496419142031741,
+      "quality_factor": 0.5553839597756208
+    },
+    {
+      "filename": "S2B_MSIL2A_20240829T124249_N0511_R009_T24LZQ_20240829T143750.SAFE.zip",
+      "class": "central",
+      "date": "2024-08-29T12:42:49.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.5862415801570462,
+      "cloud_coverage": 0.12803663814457225,
+      "quality_factor": 0.6802282011734221
+    },
+    {
+      "filename": "S2B_MSIL2A_20240829T124249_N0511_R009_T24LZR_20240829T133939.SAFE.zip",
+      "class": "central",
+      "date": "2024-08-29T12:42:49.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.4522037204194686,
+      "effective_coverage": 0.4522037204194686,
+      "cloud_coverage": 0.197681922249667,
+      "quality_factor": 0.802318077750333
+    },
+    {
+      "filename": "S2B_MSIL2A_20240918T124249_N0511_R009_T24LZQ_20240918T180342.SAFE.zip",
+      "class": "central",
+      "date": "2024-09-18T12:42:49.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.751484837311019,
+      "cloud_coverage": 0.3707374708826609,
+      "quality_factor": 0.629262529117339
+    },
+    {
+      "filename": "S2B_MSIL2A_20241008T124249_N0511_R009_T24LZQ_20241008T161410.SAFE.zip",
+      "class": "central",
+      "date": "2024-10-08T12:42:49.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.751484837311019,
+      "cloud_coverage": 0.29608861125915775,
+      "quality_factor": 0.7039113887408422
+    },
+    {
+      "filename": "S2B_MSIL2A_20241107T124239_N0511_R009_T24LZQ_20241107T162137.SAFE.zip",
+      "class": "central",
+      "date": "2024-11-07T12:42:39.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.751484837311019,
+      "cloud_coverage": 0.2957767958849437,
+      "quality_factor": 0.7042232041150562
+    },
+    {
+      "filename": "S2B_MSIL2A_20241107T124239_N0511_R009_T24LZR_20241107T162137.SAFE.zip",
+      "class": "central",
+      "date": "2024-11-07T12:42:39.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.4522037204194686,
+      "effective_coverage": 0.4522037204194686,
+      "cloud_coverage": 0.2940098682990966,
+      "quality_factor": 0.7059901317009034
+    },
+    {
+      "filename": "S2B_MSIL2A_20241127T124249_N0511_R009_T24LZQ_20241127T132543.SAFE.zip",
+      "class": "central",
+      "date": "2024-11-27T12:42:49.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.751484837311019,
+      "cloud_coverage": 0.3046769715765554,
+      "quality_factor": 0.6953230284234446
+    },
+    {
+      "filename": "S2B_MSIL2A_20241127T124249_N0511_R009_T24LZR_20241127T132543.SAFE.zip",
+      "class": "central",
+      "date": "2024-11-27T12:42:49.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.4522037204194686,
+      "effective_coverage": 0.4522037204194686,
+      "cloud_coverage": 0.36121058872899037,
+      "quality_factor": 0.6387894112710096
+    },
+    {
+      "filename": "S2B_MSIL2A_20241227T124249_N0511_R009_T24LZQ_20241227T142636.SAFE.zip",
+      "class": "central",
+      "date": "2024-12-27T12:42:49.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.7514701518976415,
+      "cloud_coverage": 0.23675561769557105,
+      "quality_factor": 0.7632294670876398
+    },
+    {
+      "filename": "S2B_MSIL2A_20241227T124249_N0511_R009_T24LZR_20241227T142636.SAFE.zip",
+      "class": "central",
+      "date": "2024-12-27T12:42:49.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.4522037204194686,
+      "effective_coverage": 0.45212505207145326,
+      "cloud_coverage": 0.22206950579519438,
+      "quality_factor": 0.7777951602743526
+    },
+    {
+      "filename": "S2B_MSIL2A_20250116T124249_N0511_R009_T24LZQ_20250116T192458.SAFE.zip",
+      "class": "central",
+      "date": "2025-01-16T12:42:49.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.7514801452909773,
+      "cloud_coverage": 0.16407025592173985,
+      "quality_factor": 0.8359245248124574
+    },
+    {
+      "filename": "S2B_MSIL2A_20250116T124249_N0511_R009_T24LZR_20250116T192458.SAFE.zip",
+      "class": "central",
+      "date": "2025-01-16T12:42:49.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.4522037204194686,
+      "effective_coverage": 0.4521888257167918,
+      "cloud_coverage": 0.22372067007287583,
+      "quality_factor": 0.7762537608101725
+    },
+    {
+      "filename": "S2B_MSIL2A_20250215T124259_N0511_R009_T24LZQ_20250215T142451.SAFE.zip",
+      "class": "central",
+      "date": "2025-02-15T12:42:59.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.751484837311019,
+      "cloud_coverage": 0.3236779578586217,
+      "quality_factor": 0.6763220421413783
+    },
+    {
+      "filename": "S2B_MSIL2A_20250215T124259_N0511_R009_T24LZR_20250215T142451.SAFE.zip",
+      "class": "central",
+      "date": "2025-02-15T12:42:59.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.4522037204194686,
+      "effective_coverage": 0.4522037204194686,
+      "cloud_coverage": 0.3466472445759549,
+      "quality_factor": 0.653352755424045
+    },
+    {
+      "filename": "S2B_MSIL2A_20250225T124249_N0511_R009_T24LZQ_20250225T160215.SAFE.zip",
+      "class": "central",
+      "date": "2025-02-25T12:42:49.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.751484837311019,
+      "cloud_coverage": 0.27567004687915875,
+      "quality_factor": 0.7243299531208413
+    },
+    {
+      "filename": "S2B_MSIL2A_20250225T124249_N0511_R009_T24LZR_20250225T160215.SAFE.zip",
+      "class": "central",
+      "date": "2025-02-25T12:42:49.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.4522037204194686,
+      "effective_coverage": 0.4522037204194686,
+      "cloud_coverage": 0.1973117132723411,
+      "quality_factor": 0.8026882867276589
+    },
+    {
+      "filename": "S2C_MSIL2A_20241212T124321_N9905_R009_T24LZQ_20241212T142109.SAFE.zip",
+      "class": "central",
+      "date": "2024-12-12T12:43:21.025000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.7514832529925634,
+      "cloud_coverage": 0.13798040776255147,
+      "quality_factor": 0.8620177748840152
+    },
+    {
+      "filename": "S2C_MSIL2A_20241212T124321_N9905_R009_T24LZR_20241212T142109.SAFE.zip",
+      "class": "central",
+      "date": "2024-12-12T12:43:21.025000",
+      "orbit": 9,
+      "geographic_coverage": 0.4522037204194686,
+      "effective_coverage": 0.45220359883005895,
+      "cloud_coverage": 0.16440663668099323,
+      "quality_factor": 0.8355931386430496
+    },
+    {
+      "filename": "S2C_MSIL2A_20250121T124321_N0511_R009_T24LZQ_20250121T140253.SAFE.zip",
+      "class": "central",
+      "date": "2025-01-21T12:43:21.025000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.7514512619468241,
+      "cloud_coverage": 0.24579534938540315,
+      "quality_factor": 0.7541709537326844
+    },
+    {
+      "filename": "S2C_MSIL2A_20250121T124321_N0511_R009_T24LZR_20250121T140253.SAFE.zip",
+      "class": "central",
+      "date": "2025-01-21T12:43:21.025000",
+      "orbit": 9,
+      "geographic_coverage": 0.4522037204194686,
+      "effective_coverage": 0.4522037204194686,
+      "cloud_coverage": 0.3218953625012157,
+      "quality_factor": 0.6781046374987842
+    },
+    {
+      "filename": "S2C_MSIL2A_20250131T124321_N0511_R009_T24LZQ_20250131T172609.SAFE.zip",
+      "class": "central",
+      "date": "2025-01-31T12:43:21.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.749321267653842,
+      "cloud_coverage": 0.21046695890318698,
+      "quality_factor": 0.7872599283921468
+    },
+    {
+      "filename": "S2C_MSIL2A_20250131T124321_N0511_R009_T24LZR_20250131T172609.SAFE.zip",
+      "class": "central",
+      "date": "2025-01-31T12:43:21.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.4522037204194686,
+      "effective_coverage": 0.45220359883005895,
+      "cloud_coverage": 0.23953434265876672,
+      "quality_factor": 0.7604654528657587
+    },
+    {
+      "filename": "S2C_MSIL2A_20250322T124311_N0511_R009_T24LZQ_20250322T171915.SAFE.zip",
+      "class": "central",
+      "date": "2025-03-22T12:43:11.025000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.751484837311019,
+      "cloud_coverage": 0.3284957158575117,
+      "quality_factor": 0.6715042841424883
+    },
+    {
+      "filename": "S2C_MSIL2A_20250411T124311_N0511_R009_T24LZQ_20250411T170106.SAFE.zip",
+      "class": "central",
+      "date": "2025-04-11T12:43:11.025000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.751483435798539,
+      "cloud_coverage": 0.13053860844213414,
+      "quality_factor": 0.8694597700201706
+    },
+    {
+      "filename": "S2C_MSIL2A_20250411T124311_N0511_R009_T24LZR_20250411T170106.SAFE.zip",
+      "class": "central",
+      "date": "2025-04-11T12:43:11.025000",
+      "orbit": 9,
+      "geographic_coverage": 0.4522037204194686,
+      "effective_coverage": 0.4522037204194686,
+      "cloud_coverage": 0.21552932630025828,
+      "quality_factor": 0.7844706736997418
+    },
+    {
+      "filename": "S2C_MSIL2A_20250131T124321_N0511_R009_T24LZQ_20250131T182713.SAFE.zip",
+      "class": "complement",
+      "date": "2025-01-31T12:43:21.024000",
+      "orbit": 9,
+      "geographic_coverage": 0.751484837311019,
+      "effective_coverage": 0.0695668140347001,
+      "cloud_coverage": 0.009217171798938339,
+      "quality_factor": 0.09171922218000926
+    }
+  ],
+  "mosaic_groups": [
+    {
+      "group_id": "mosaic_1",
+      "type": "mixed_mosaic",
+      "images": [
+        "S2A_MSIL2A_20240903T124321_N0511_R009_T24LZQ_20240903T165646.SAFE.zip",
+        "S2A_MSIL2A_20240903T124321_N0511_R009_T24LZR_20240903T165646.SAFE.zip"
+      ],
+      "estimated_coverage": 1.0,
+      "quality_factor": 0.9485482305377251,
+      "avg_cloud_coverage": 1.0,
+      "time_window_start": "2024-09-03T12:43:21.024000",
+      "time_window_end": "2024-09-03T12:43:21.024000",
+      "contains_sar": true,
+      "overlap_details": [
+        {
+          "base_image": "S2A_MSIL2A_20240903T124321_N0511_R009_T24LZQ_20240903T165646.SAFE.zip",
+          "other_image": "S2A_MSIL2A_20240903T124321_N0511_R009_T24LZR_20240903T165646.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.2735679160395,
+                  -9.071486829174155
+                ],
+                [
+                  -35.273130935457665,
+                  -9.116085005469525
+                ],
+                [
+                  -36.270783943700216,
+                  -9.124949483880082
+                ],
+                [
+                  -36.27113939648354,
+                  -9.080307278105886
+                ],
+                [
+                  -36.271457068006534,
+                  -9.036047762269577
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.26684020212648196,
+          "cloud_cover_other_in_overlap": 0.2668018931710615,
+          "prioritized_image_filename": "S2A_MSIL2A_20240903T124321_N0511_R009_T24LZR_20240903T165646.SAFE.zip"
+        }
+      ]
+    },
+    {
+      "group_id": "mosaic_2",
+      "type": "mixed_mosaic",
+      "images": [
+        "S2A_MSIL2A_20241212T124251_N0511_R009_T24LZQ_20241212T151445.SAFE.zip",
+        "S2C_MSIL2A_20241212T124321_N9905_R009_T24LZQ_20241212T142109.SAFE.zip",
+        "S2A_MSIL2A_20241212T124251_N0511_R009_T24LZR_20241212T151445.SAFE.zip"
+      ],
+      "estimated_coverage": 1.0,
+      "quality_factor": 0.8542572757124934,
+      "avg_cloud_coverage": 1.0,
+      "time_window_start": "2024-12-12T12:42:51.024000",
+      "time_window_end": "2024-12-12T12:43:21.025000",
+      "contains_sar": true,
+      "overlap_details": [
+        {
+          "base_image": "S2A_MSIL2A_20241212T124251_N0511_R009_T24LZQ_20241212T151445.SAFE.zip",
+          "other_image": "S2C_MSIL2A_20241212T124321_N9905_R009_T24LZQ_20241212T142109.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.26327685900302,
+                  -10.018274267783926
+                ],
+                [
+                  -36.263593358926485,
+                  -10.02803304424272
+                ],
+                [
+                  -36.2714917997572,
+                  -9.036048067892429
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.26327685900302,
+                  -10.018274267783926
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.08017242809413373,
+          "cloud_cover_other_in_overlap": 0.08148559560187259,
+          "prioritized_image_filename": "S2A_MSIL2A_20241212T124251_N0511_R009_T24LZQ_20241212T151445.SAFE.zip"
+        },
+        {
+          "base_image": "S2A_MSIL2A_20241212T124251_N0511_R009_T24LZQ_20241212T151445.SAFE.zip",
+          "other_image": "S2A_MSIL2A_20241212T124251_N0511_R009_T24LZR_20241212T151445.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.2735679160395,
+                  -9.071486829174155
+                ],
+                [
+                  -35.273130935457665,
+                  -9.116085005469525
+                ],
+                [
+                  -36.270783943700216,
+                  -9.124949483880082
+                ],
+                [
+                  -36.27113939648354,
+                  -9.080307278105886
+                ],
+                [
+                  -36.271457068006534,
+                  -9.036047762269577
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.14886521359411287,
+          "cloud_cover_other_in_overlap": 0.14901923837181377,
+          "prioritized_image_filename": "S2A_MSIL2A_20241212T124251_N0511_R009_T24LZQ_20241212T151445.SAFE.zip"
+        }
+      ]
+    },
+    {
+      "group_id": "mosaic_3",
+      "type": "mixed_mosaic",
+      "images": [
+        "S2C_MSIL2A_20250411T124311_N0511_R009_T24LZQ_20250411T170106.SAFE.zip",
+        "S2C_MSIL2A_20250411T124311_N0511_R009_T24LZR_20250411T170106.SAFE.zip"
+      ],
+      "estimated_coverage": 1.0,
+      "quality_factor": 0.8269652218599561,
+      "avg_cloud_coverage": 1.0,
+      "time_window_start": "2025-04-11T12:43:11.025000",
+      "time_window_end": "2025-04-11T12:43:11.025000",
+      "contains_sar": true,
+      "overlap_details": [
+        {
+          "base_image": "S2C_MSIL2A_20250411T124311_N0511_R009_T24LZQ_20250411T170106.SAFE.zip",
+          "other_image": "S2C_MSIL2A_20250411T124311_N0511_R009_T24LZR_20250411T170106.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.2735679160395,
+                  -9.071486829174155
+                ],
+                [
+                  -35.273130935457665,
+                  -9.116085005469525
+                ],
+                [
+                  -36.270783943700216,
+                  -9.124949483880082
+                ],
+                [
+                  -36.27113939648354,
+                  -9.080307278105886
+                ],
+                [
+                  -36.271457068006534,
+                  -9.036047762269577
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.23404851613113417,
+          "cloud_cover_other_in_overlap": 0.23516295532722228,
+          "prioritized_image_filename": "S2C_MSIL2A_20250411T124311_N0511_R009_T24LZQ_20250411T170106.SAFE.zip"
+        }
+      ]
+    },
+    {
+      "group_id": "mosaic_4",
+      "type": "mixed_mosaic",
+      "images": [
+        "S2B_MSIL2A_20250116T124249_N0511_R009_T24LZQ_20250116T192458.SAFE.zip",
+        "S2B_MSIL2A_20250116T124249_N0511_R009_T24LZR_20250116T192458.SAFE.zip"
+      ],
+      "estimated_coverage": 1.0,
+      "quality_factor": 0.8060891428113149,
+      "avg_cloud_coverage": 1.0,
+      "time_window_start": "2025-01-16T12:42:49.024000",
+      "time_window_end": "2025-01-16T12:42:49.024000",
+      "contains_sar": true,
+      "overlap_details": [
+        {
+          "base_image": "S2B_MSIL2A_20250116T124249_N0511_R009_T24LZQ_20250116T192458.SAFE.zip",
+          "other_image": "S2B_MSIL2A_20250116T124249_N0511_R009_T24LZR_20250116T192458.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.2735679160395,
+                  -9.071486829174155
+                ],
+                [
+                  -35.273130935457665,
+                  -9.116085005469525
+                ],
+                [
+                  -36.270783943700216,
+                  -9.124949483880082
+                ],
+                [
+                  -36.27113939648354,
+                  -9.080307278105886
+                ],
+                [
+                  -36.271457068006534,
+                  -9.036047762269577
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.20859500325980598,
+          "cloud_cover_other_in_overlap": 0.20946179112308197,
+          "prioritized_image_filename": "S2B_MSIL2A_20250116T124249_N0511_R009_T24LZQ_20250116T192458.SAFE.zip"
+        }
+      ]
+    },
+    {
+      "group_id": "mosaic_5",
+      "type": "mixed_mosaic",
+      "images": [
+        "S2A_MSIL2A_20250324T124331_N0511_R009_T24LZQ_20250324T151715.SAFE.zip",
+        "S2A_MSIL2A_20250324T124331_N0511_R009_T24LZR_20250324T151715.SAFE.zip",
+        "S2C_MSIL2A_20250322T124311_N0511_R009_T24LZQ_20250322T171915.SAFE.zip"
+      ],
+      "estimated_coverage": 1.0,
+      "quality_factor": 0.7765913478773907,
+      "avg_cloud_coverage": 1.0,
+      "time_window_start": "2025-03-22T12:43:11.025000",
+      "time_window_end": "2025-03-24T12:43:31.024000",
+      "contains_sar": true,
+      "overlap_details": [
+        {
+          "base_image": "S2A_MSIL2A_20250324T124331_N0511_R009_T24LZQ_20250324T151715.SAFE.zip",
+          "other_image": "S2A_MSIL2A_20250324T124331_N0511_R009_T24LZR_20250324T151715.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.2735679160395,
+                  -9.071486829174155
+                ],
+                [
+                  -35.273130935457665,
+                  -9.116085005469525
+                ],
+                [
+                  -36.270783943700216,
+                  -9.124949483880082
+                ],
+                [
+                  -36.27113939648354,
+                  -9.080307278105886
+                ],
+                [
+                  -36.271457068006534,
+                  -9.036047762269577
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.15682943236430155,
+          "cloud_cover_other_in_overlap": 0.1569532655722926,
+          "prioritized_image_filename": "S2A_MSIL2A_20250324T124331_N0511_R009_T24LZQ_20250324T151715.SAFE.zip"
+        },
+        {
+          "base_image": "S2A_MSIL2A_20250324T124331_N0511_R009_T24LZQ_20250324T151715.SAFE.zip",
+          "other_image": "S2C_MSIL2A_20250322T124311_N0511_R009_T24LZQ_20250322T171915.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.26327685900302,
+                  -10.018274267783926
+                ],
+                [
+                  -36.263593358926485,
+                  -10.02803304424272
+                ],
+                [
+                  -36.2714917997572,
+                  -9.036048067892429
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.26327685900302,
+                  -10.018274267783926
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.10311681115855621,
+          "cloud_cover_other_in_overlap": 0.218470310317484,
+          "prioritized_image_filename": "S2A_MSIL2A_20250324T124331_N0511_R009_T24LZQ_20250324T151715.SAFE.zip"
+        }
+      ]
+    },
+    {
+      "group_id": "mosaic_6",
+      "type": "mixed_mosaic",
+      "images": [
+        "S2A_MSIL2A_20240526T124321_N0510_R009_T24LZQ_20240526T183851.SAFE.zip",
+        "S2A_MSIL2A_20240526T124321_N0510_R009_T24LZR_20240526T183851.SAFE.zip"
+      ],
+      "estimated_coverage": 1.0,
+      "quality_factor": 0.7737919595495759,
+      "avg_cloud_coverage": 1.0,
+      "time_window_start": "2024-05-26T12:43:21.024000",
+      "time_window_end": "2024-05-26T12:43:21.024000",
+      "contains_sar": true,
+      "overlap_details": [
+        {
+          "base_image": "S2A_MSIL2A_20240526T124321_N0510_R009_T24LZQ_20240526T183851.SAFE.zip",
+          "other_image": "S2A_MSIL2A_20240526T124321_N0510_R009_T24LZR_20240526T183851.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.2735679160395,
+                  -9.071486829174155
+                ],
+                [
+                  -35.273130935457665,
+                  -9.116085005469525
+                ],
+                [
+                  -36.270783943700216,
+                  -9.124949483880082
+                ],
+                [
+                  -36.27113939648354,
+                  -9.080307278105886
+                ],
+                [
+                  -36.271457068006534,
+                  -9.036047762269577
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.35788967454141507,
+          "cloud_cover_other_in_overlap": 0.36165996076214546,
+          "prioritized_image_filename": "S2A_MSIL2A_20240526T124321_N0510_R009_T24LZQ_20240526T183851.SAFE.zip"
+        }
+      ]
+    },
+    {
+      "group_id": "mosaic_7",
+      "type": "mixed_mosaic",
+      "images": [
+        "S2B_MSIL2A_20250225T124249_N0511_R009_T24LZQ_20250225T160215.SAFE.zip",
+        "S2B_MSIL2A_20250225T124249_N0511_R009_T24LZR_20250225T160215.SAFE.zip"
+      ],
+      "estimated_coverage": 1.0,
+      "quality_factor": 0.7635091199242501,
+      "avg_cloud_coverage": 1.0,
+      "time_window_start": "2025-02-25T12:42:49.024000",
+      "time_window_end": "2025-02-25T12:42:49.024000",
+      "contains_sar": true,
+      "overlap_details": [
+        {
+          "base_image": "S2B_MSIL2A_20250225T124249_N0511_R009_T24LZQ_20250225T160215.SAFE.zip",
+          "other_image": "S2B_MSIL2A_20250225T124249_N0511_R009_T24LZR_20250225T160215.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.2735679160395,
+                  -9.071486829174155
+                ],
+                [
+                  -35.273130935457665,
+                  -9.116085005469525
+                ],
+                [
+                  -36.270783943700216,
+                  -9.124949483880082
+                ],
+                [
+                  -36.27113939648354,
+                  -9.080307278105886
+                ],
+                [
+                  -36.271457068006534,
+                  -9.036047762269577
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.2631246526853508,
+          "cloud_cover_other_in_overlap": 0.26574594412854646,
+          "prioritized_image_filename": "S2B_MSIL2A_20250225T124249_N0511_R009_T24LZQ_20250225T160215.SAFE.zip"
+        }
+      ]
+    },
+    {
+      "group_id": "mosaic_8",
+      "type": "mixed_mosaic",
+      "images": [
+        "S2B_MSIL2A_20241227T124249_N0511_R009_T24LZQ_20241227T142636.SAFE.zip",
+        "S2A_MSIL2A_20241222T124251_N0511_R009_T24LZQ_20241222T151158.SAFE.zip",
+        "S2B_MSIL2A_20241227T124249_N0511_R009_T24LZR_20241227T142636.SAFE.zip"
+      ],
+      "estimated_coverage": 1.0,
+      "quality_factor": 0.7508762331606191,
+      "avg_cloud_coverage": 1.0,
+      "time_window_start": "2024-12-22T12:42:51.024000",
+      "time_window_end": "2024-12-27T12:42:49.024000",
+      "contains_sar": true,
+      "overlap_details": [
+        {
+          "base_image": "S2B_MSIL2A_20241227T124249_N0511_R009_T24LZQ_20241227T142636.SAFE.zip",
+          "other_image": "S2A_MSIL2A_20241222T124251_N0511_R009_T24LZQ_20241222T151158.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.26327685900302,
+                  -10.018274267783926
+                ],
+                [
+                  -36.263593358926485,
+                  -10.02803304424272
+                ],
+                [
+                  -36.2714917997572,
+                  -9.036048067892429
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.26327685900302,
+                  -10.018274267783926
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.13239936164777158,
+          "cloud_cover_other_in_overlap": 0.22093088609526843,
+          "prioritized_image_filename": "S2B_MSIL2A_20241227T124249_N0511_R009_T24LZQ_20241227T142636.SAFE.zip"
+        },
+        {
+          "base_image": "S2B_MSIL2A_20241227T124249_N0511_R009_T24LZQ_20241227T142636.SAFE.zip",
+          "other_image": "S2B_MSIL2A_20241227T124249_N0511_R009_T24LZR_20241227T142636.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.2735679160395,
+                  -9.071486829174155
+                ],
+                [
+                  -35.273130935457665,
+                  -9.116085005469525
+                ],
+                [
+                  -36.270783943700216,
+                  -9.124949483880082
+                ],
+                [
+                  -36.27113939648354,
+                  -9.080307278105886
+                ],
+                [
+                  -36.271457068006534,
+                  -9.036047762269577
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.21982754312069872,
+          "cloud_cover_other_in_overlap": 0.21981400813575855,
+          "prioritized_image_filename": "S2B_MSIL2A_20241227T124249_N0511_R009_T24LZR_20241227T142636.SAFE.zip"
+        }
+      ]
+    },
+    {
+      "group_id": "mosaic_9",
+      "type": "mixed_mosaic",
+      "images": [
+        "S2A_MSIL2A_20250403T124331_N0511_R009_T24LZQ_20250403T220514.SAFE.zip",
+        "S2A_MSIL2A_20250403T124331_N0511_R009_T24LZR_20250403T220514.SAFE.zip"
+      ],
+      "estimated_coverage": 1.0,
+      "quality_factor": 0.7476596614926763,
+      "avg_cloud_coverage": 1.0,
+      "time_window_start": "2025-04-03T12:43:31.024000",
+      "time_window_end": "2025-04-03T12:43:31.024000",
+      "contains_sar": true,
+      "overlap_details": [
+        {
+          "base_image": "S2A_MSIL2A_20250403T124331_N0511_R009_T24LZQ_20250403T220514.SAFE.zip",
+          "other_image": "S2A_MSIL2A_20250403T124331_N0511_R009_T24LZR_20250403T220514.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.2735679160395,
+                  -9.071486829174155
+                ],
+                [
+                  -35.273130935457665,
+                  -9.116085005469525
+                ],
+                [
+                  -36.270783943700216,
+                  -9.124949483880082
+                ],
+                [
+                  -36.27113939648354,
+                  -9.080307278105886
+                ],
+                [
+                  -36.271457068006534,
+                  -9.036047762269577
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.2142742109547992,
+          "cloud_cover_other_in_overlap": 0.2162637581884082,
+          "prioritized_image_filename": "S2A_MSIL2A_20250403T124331_N0511_R009_T24LZQ_20250403T220514.SAFE.zip"
+        }
+      ]
+    },
+    {
+      "group_id": "mosaic_10",
+      "type": "mixed_mosaic",
+      "images": [
+        "S2A_MSIL2A_20241112T124251_N0511_R009_T24LZQ_20241112T151546.SAFE.zip",
+        "S2A_MSIL2A_20241112T124251_N0511_R009_T24LZR_20241112T151546.SAFE.zip"
+      ],
+      "estimated_coverage": 1.0,
+      "quality_factor": 0.7253373885342765,
+      "avg_cloud_coverage": 1.0,
+      "time_window_start": "2024-11-12T12:42:51.024000",
+      "time_window_end": "2024-11-12T12:42:51.024000",
+      "contains_sar": true,
+      "overlap_details": [
+        {
+          "base_image": "S2A_MSIL2A_20241112T124251_N0511_R009_T24LZQ_20241112T151546.SAFE.zip",
+          "other_image": "S2A_MSIL2A_20241112T124251_N0511_R009_T24LZR_20241112T151546.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.2735679160395,
+                  -9.071486829174155
+                ],
+                [
+                  -35.273130935457665,
+                  -9.116085005469525
+                ],
+                [
+                  -36.270783943700216,
+                  -9.124949483880082
+                ],
+                [
+                  -36.27113939648354,
+                  -9.080307278105886
+                ],
+                [
+                  -36.271457068006534,
+                  -9.036047762269577
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.41325084290326725,
+          "cloud_cover_other_in_overlap": 0.421234994845875,
+          "prioritized_image_filename": "S2A_MSIL2A_20241112T124251_N0511_R009_T24LZQ_20241112T151546.SAFE.zip"
+        }
+      ]
+    },
+    {
+      "group_id": "mosaic_11",
+      "type": "mixed_mosaic",
+      "images": [
+        "S2C_MSIL2A_20250121T124321_N0511_R009_T24LZQ_20250121T140253.SAFE.zip",
+        "S2C_MSIL2A_20250121T124321_N0511_R009_T24LZR_20250121T140253.SAFE.zip"
+      ],
+      "estimated_coverage": 1.0,
+      "quality_factor": 0.7161377956157343,
+      "avg_cloud_coverage": 1.0,
+      "time_window_start": "2025-01-21T12:43:21.025000",
+      "time_window_end": "2025-01-21T12:43:21.025000",
+      "contains_sar": true,
+      "overlap_details": [
+        {
+          "base_image": "S2C_MSIL2A_20250121T124321_N0511_R009_T24LZQ_20250121T140253.SAFE.zip",
+          "other_image": "S2C_MSIL2A_20250121T124321_N0511_R009_T24LZR_20250121T140253.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.2735679160395,
+                  -9.071486829174155
+                ],
+                [
+                  -35.273130935457665,
+                  -9.116085005469525
+                ],
+                [
+                  -36.270783943700216,
+                  -9.124949483880082
+                ],
+                [
+                  -36.27113939648354,
+                  -9.080307278105886
+                ],
+                [
+                  -36.271457068006534,
+                  -9.036047762269577
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.3060000792275389,
+          "cloud_cover_other_in_overlap": 0.3087468641121419,
+          "prioritized_image_filename": "S2C_MSIL2A_20250121T124321_N0511_R009_T24LZQ_20250121T140253.SAFE.zip"
+        }
+      ]
+    },
+    {
+      "group_id": "mosaic_12",
+      "type": "mixed_mosaic",
+      "images": [
+        "S2A_MSIL2A_20241013T124251_N0511_R009_T24LZQ_20241013T151149.SAFE.zip",
+        "S2A_MSIL2A_20241013T124251_N0511_R009_T24LZR_20241013T151149.SAFE.zip"
+      ],
+      "estimated_coverage": 1.0,
+      "quality_factor": 0.7067626059838976,
+      "avg_cloud_coverage": 1.0,
+      "time_window_start": "2024-10-13T12:42:51.024000",
+      "time_window_end": "2024-10-13T12:42:51.024000",
+      "contains_sar": true,
+      "overlap_details": [
+        {
+          "base_image": "S2A_MSIL2A_20241013T124251_N0511_R009_T24LZQ_20241013T151149.SAFE.zip",
+          "other_image": "S2A_MSIL2A_20241013T124251_N0511_R009_T24LZR_20241013T151149.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.2735679160395,
+                  -9.071486829174155
+                ],
+                [
+                  -35.273130935457665,
+                  -9.116085005469525
+                ],
+                [
+                  -36.270783943700216,
+                  -9.124949483880082
+                ],
+                [
+                  -36.27113939648354,
+                  -9.080307278105886
+                ],
+                [
+                  -36.271457068006534,
+                  -9.036047762269577
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.3463124578640922,
+          "cloud_cover_other_in_overlap": 0.34644439271845917,
+          "prioritized_image_filename": "S2A_MSIL2A_20241013T124251_N0511_R009_T24LZQ_20241013T151149.SAFE.zip"
+        }
+      ]
+    },
+    {
+      "group_id": "mosaic_13",
+      "type": "mixed_mosaic",
+      "images": [
+        "S2B_MSIL2A_20241107T124239_N0511_R009_T24LZQ_20241107T162137.SAFE.zip",
+        "S2B_MSIL2A_20241107T124239_N0511_R009_T24LZR_20241107T162137.SAFE.zip"
+      ],
+      "estimated_coverage": 1.0,
+      "quality_factor": 0.7051066679079798,
+      "avg_cloud_coverage": 1.0,
+      "time_window_start": "2024-11-07T12:42:39.024000",
+      "time_window_end": "2024-11-07T12:42:39.024000",
+      "contains_sar": true,
+      "overlap_details": [
+        {
+          "base_image": "S2B_MSIL2A_20241107T124239_N0511_R009_T24LZQ_20241107T162137.SAFE.zip",
+          "other_image": "S2B_MSIL2A_20241107T124239_N0511_R009_T24LZR_20241107T162137.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.2735679160395,
+                  -9.071486829174155
+                ],
+                [
+                  -35.273130935457665,
+                  -9.116085005469525
+                ],
+                [
+                  -36.270783943700216,
+                  -9.124949483880082
+                ],
+                [
+                  -36.27113939648354,
+                  -9.080307278105886
+                ],
+                [
+                  -36.271457068006534,
+                  -9.036047762269577
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.3282807883214165,
+          "cloud_cover_other_in_overlap": 0.3281182456023676,
+          "prioritized_image_filename": "S2B_MSIL2A_20241107T124239_N0511_R009_T24LZR_20241107T162137.SAFE.zip"
+        }
+      ]
+    },
+    {
+      "group_id": "mosaic_14",
+      "type": "mixed_mosaic",
+      "images": [
+        "S2B_MSIL2A_20240501T124249_N0510_R009_T24LZQ_20240501T162152.SAFE.zip",
+        "S2B_MSIL2A_20240501T124249_N0510_R009_T24LZR_20240501T162152.SAFE.zip"
+      ],
+      "estimated_coverage": 1.0,
+      "quality_factor": 0.6971851866069376,
+      "avg_cloud_coverage": 1.0,
+      "time_window_start": "2024-05-01T12:42:49.024000",
+      "time_window_end": "2024-05-01T12:42:49.024000",
+      "contains_sar": true,
+      "overlap_details": [
+        {
+          "base_image": "S2B_MSIL2A_20240501T124249_N0510_R009_T24LZQ_20240501T162152.SAFE.zip",
+          "other_image": "S2B_MSIL2A_20240501T124249_N0510_R009_T24LZR_20240501T162152.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.2735679160395,
+                  -9.071486829174155
+                ],
+                [
+                  -35.273130935457665,
+                  -9.116085005469525
+                ],
+                [
+                  -36.270783943700216,
+                  -9.124949483880082
+                ],
+                [
+                  -36.27113939648354,
+                  -9.080307278105886
+                ],
+                [
+                  -36.271457068006534,
+                  -9.036047762269577
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.25046194468066674,
+          "cloud_cover_other_in_overlap": 0.2555034600989444,
+          "prioritized_image_filename": "S2B_MSIL2A_20240501T124249_N0510_R009_T24LZQ_20240501T162152.SAFE.zip"
+        }
+      ]
+    },
+    {
+      "group_id": "mosaic_15",
+      "type": "mixed_mosaic",
+      "images": [
+        "S2B_MSIL2A_20240829T124249_N0511_R009_T24LZQ_20240829T133939.SAFE.zip",
+        "S2B_MSIL2A_20240829T124249_N0511_R009_T24LZR_20240829T133939.SAFE.zip",
+        "S2B_MSIL2A_20240829T124249_N0511_R009_T24LZQ_20240829T143750.SAFE.zip"
+      ],
+      "estimated_coverage": 1.0,
+      "quality_factor": 0.6793100795664587,
+      "avg_cloud_coverage": 1.0,
+      "time_window_start": "2024-08-29T12:42:49.024000",
+      "time_window_end": "2024-08-29T12:42:49.024000",
+      "contains_sar": true,
+      "overlap_details": [
+        {
+          "base_image": "S2B_MSIL2A_20240829T124249_N0511_R009_T24LZQ_20240829T133939.SAFE.zip",
+          "other_image": "S2B_MSIL2A_20240829T124249_N0511_R009_T24LZR_20240829T133939.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.2735679160395,
+                  -9.071486829174155
+                ],
+                [
+                  -35.273130935457665,
+                  -9.116085005469525
+                ],
+                [
+                  -36.270783943700216,
+                  -9.124949483880082
+                ],
+                [
+                  -36.27113939648354,
+                  -9.080307278105886
+                ],
+                [
+                  -36.271457068006534,
+                  -9.036047762269577
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.18892065806245723,
+          "cloud_cover_other_in_overlap": 0.18918520489032245,
+          "prioritized_image_filename": "S2B_MSIL2A_20240829T124249_N0511_R009_T24LZQ_20240829T133939.SAFE.zip"
+        },
+        {
+          "base_image": "S2B_MSIL2A_20240829T124249_N0511_R009_T24LZQ_20240829T133939.SAFE.zip",
+          "other_image": "S2B_MSIL2A_20240829T124249_N0511_R009_T24LZQ_20240829T143750.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.26327685900302,
+                  -10.018274267783926
+                ],
+                [
+                  -36.263593358926485,
+                  -10.02803304424272
+                ],
+                [
+                  -36.2714917997572,
+                  -9.036048067892429
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.26327685900302,
+                  -10.018274267783926
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.04059561846178347,
+          "cloud_cover_other_in_overlap": 0.07519945189299305,
+          "prioritized_image_filename": "S2B_MSIL2A_20240829T124249_N0511_R009_T24LZQ_20240829T133939.SAFE.zip"
+        }
+      ]
+    },
+    {
+      "group_id": "mosaic_16",
+      "type": "mixed_mosaic",
+      "images": [
+        "S2A_MSIL2A_20241222T124251_N0511_R009_T24LZQ_20241222T151158.SAFE.zip",
+        "S2A_MSIL2A_20241222T124251_N0511_R009_T24LZR_20241222T151158.SAFE.zip"
+      ],
+      "estimated_coverage": 1.0,
+      "quality_factor": 0.6734751893538522,
+      "avg_cloud_coverage": 1.0,
+      "time_window_start": "2024-12-22T12:42:51.024000",
+      "time_window_end": "2024-12-22T12:42:51.024000",
+      "contains_sar": true,
+      "overlap_details": [
+        {
+          "base_image": "S2A_MSIL2A_20241222T124251_N0511_R009_T24LZQ_20241222T151158.SAFE.zip",
+          "other_image": "S2A_MSIL2A_20241222T124251_N0511_R009_T24LZR_20241222T151158.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.2735679160395,
+                  -9.071486829174155
+                ],
+                [
+                  -35.273130935457665,
+                  -9.116085005469525
+                ],
+                [
+                  -36.270783943700216,
+                  -9.124949483880082
+                ],
+                [
+                  -36.27113939648354,
+                  -9.080307278105886
+                ],
+                [
+                  -36.271457068006534,
+                  -9.036047762269577
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.31325865459051394,
+          "cloud_cover_other_in_overlap": 0.3141518601033781,
+          "prioritized_image_filename": "S2A_MSIL2A_20241222T124251_N0511_R009_T24LZQ_20241222T151158.SAFE.zip"
+        }
+      ]
+    },
+    {
+      "group_id": "mosaic_17",
+      "type": "mixed_mosaic",
+      "images": [
+        "S2B_MSIL2A_20241127T124249_N0511_R009_T24LZQ_20241127T132543.SAFE.zip",
+        "S2A_MSIL2A_20241122T124251_N0511_R009_T24LZQ_20241122T151757.SAFE.zip",
+        "S2B_MSIL2A_20241127T124249_N0511_R009_T24LZR_20241127T132543.SAFE.zip"
+      ],
+      "estimated_coverage": 1.0,
+      "quality_factor": 0.6721509582445219,
+      "avg_cloud_coverage": 1.0,
+      "time_window_start": "2024-11-22T12:42:51.024000",
+      "time_window_end": "2024-11-27T12:42:49.024000",
+      "contains_sar": true,
+      "overlap_details": [
+        {
+          "base_image": "S2B_MSIL2A_20241127T124249_N0511_R009_T24LZQ_20241127T132543.SAFE.zip",
+          "other_image": "S2A_MSIL2A_20241122T124251_N0511_R009_T24LZQ_20241122T151757.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.26327685900302,
+                  -10.018274267783926
+                ],
+                [
+                  -36.263593358926485,
+                  -10.02803304424272
+                ],
+                [
+                  -36.2714917997572,
+                  -9.036048067892429
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.26327685900302,
+                  -10.018274267783926
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.1656769221070932,
+          "cloud_cover_other_in_overlap": 0.25470297046127915,
+          "prioritized_image_filename": "S2B_MSIL2A_20241127T124249_N0511_R009_T24LZQ_20241127T132543.SAFE.zip"
+        },
+        {
+          "base_image": "S2B_MSIL2A_20241127T124249_N0511_R009_T24LZQ_20241127T132543.SAFE.zip",
+          "other_image": "S2B_MSIL2A_20241127T124249_N0511_R009_T24LZR_20241127T132543.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.2735679160395,
+                  -9.071486829174155
+                ],
+                [
+                  -35.273130935457665,
+                  -9.116085005469525
+                ],
+                [
+                  -36.270783943700216,
+                  -9.124949483880082
+                ],
+                [
+                  -36.27113939648354,
+                  -9.080307278105886
+                ],
+                [
+                  -36.271457068006534,
+                  -9.036047762269577
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.3389665100750403,
+          "cloud_cover_other_in_overlap": 0.33899917607894864,
+          "prioritized_image_filename": "S2B_MSIL2A_20241127T124249_N0511_R009_T24LZQ_20241127T132543.SAFE.zip"
+        }
+      ]
+    },
+    {
+      "group_id": "mosaic_18",
+      "type": "mixed_mosaic",
+      "images": [
+        "S2B_MSIL2A_20240730T124249_N0511_R009_T24LZQ_20240730T143724.SAFE.zip",
+        "S2B_MSIL2A_20240730T124249_N0511_R009_T24LZR_20240730T143724.SAFE.zip"
+      ],
+      "estimated_coverage": 1.0,
+      "quality_factor": 0.66563950651901,
+      "avg_cloud_coverage": 1.0,
+      "time_window_start": "2024-07-30T12:42:49.024000",
+      "time_window_end": "2024-07-30T12:42:49.024000",
+      "contains_sar": true,
+      "overlap_details": [
+        {
+          "base_image": "S2B_MSIL2A_20240730T124249_N0511_R009_T24LZQ_20240730T143724.SAFE.zip",
+          "other_image": "S2B_MSIL2A_20240730T124249_N0511_R009_T24LZR_20240730T143724.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.2735679160395,
+                  -9.071486829174155
+                ],
+                [
+                  -35.273130935457665,
+                  -9.116085005469525
+                ],
+                [
+                  -36.270783943700216,
+                  -9.124949483880082
+                ],
+                [
+                  -36.27113939648354,
+                  -9.080307278105886
+                ],
+                [
+                  -36.271457068006534,
+                  -9.036047762269577
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.3006100150273168,
+          "cloud_cover_other_in_overlap": 0.30284788496140874,
+          "prioritized_image_filename": "S2B_MSIL2A_20240730T124249_N0511_R009_T24LZQ_20240730T143724.SAFE.zip"
+        }
+      ]
+    },
+    {
+      "group_id": "mosaic_19",
+      "type": "mixed_mosaic",
+      "images": [
+        "S2B_MSIL2A_20250215T124259_N0511_R009_T24LZQ_20250215T142451.SAFE.zip",
+        "S2B_MSIL2A_20250215T124259_N0511_R009_T24LZR_20250215T142451.SAFE.zip"
+      ],
+      "estimated_coverage": 1.0,
+      "quality_factor": 0.6648373987827116,
+      "avg_cloud_coverage": 1.0,
+      "time_window_start": "2025-02-15T12:42:59.024000",
+      "time_window_end": "2025-02-15T12:42:59.024000",
+      "contains_sar": true,
+      "overlap_details": [
+        {
+          "base_image": "S2B_MSIL2A_20250215T124259_N0511_R009_T24LZQ_20250215T142451.SAFE.zip",
+          "other_image": "S2B_MSIL2A_20250215T124259_N0511_R009_T24LZR_20250215T142451.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.2735679160395,
+                  -9.071486829174155
+                ],
+                [
+                  -35.273130935457665,
+                  -9.116085005469525
+                ],
+                [
+                  -36.270783943700216,
+                  -9.124949483880082
+                ],
+                [
+                  -36.27113939648354,
+                  -9.080307278105886
+                ],
+                [
+                  -36.271457068006534,
+                  -9.036047762269577
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.34756936204430744,
+          "cloud_cover_other_in_overlap": 0.3488540846902168,
+          "prioritized_image_filename": "S2B_MSIL2A_20250215T124259_N0511_R009_T24LZQ_20250215T142451.SAFE.zip"
+        }
+      ]
+    },
+    {
+      "group_id": "mosaic_20",
+      "type": "mixed_mosaic",
+      "images": [
+        "S2B_MSIL2A_20240918T124249_N0511_R009_T24LZQ_20240918T180342.SAFE.zip",
+        "S2A_MSIL2A_20240913T124251_N0511_R009_T24LZR_20240913T165749.SAFE.zip"
+      ],
+      "estimated_coverage": 1.0,
+      "quality_factor": 0.6571267724661585,
+      "avg_cloud_coverage": 1.0,
+      "time_window_start": "2024-09-13T12:42:51.024000",
+      "time_window_end": "2024-09-18T12:42:49.024000",
+      "contains_sar": true,
+      "overlap_details": [
+        {
+          "base_image": "S2B_MSIL2A_20240918T124249_N0511_R009_T24LZQ_20240918T180342.SAFE.zip",
+          "other_image": "S2A_MSIL2A_20240913T124251_N0511_R009_T24LZR_20240913T165749.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.2735679160395,
+                  -9.071486829174155
+                ],
+                [
+                  -35.273130935457665,
+                  -9.116085005469525
+                ],
+                [
+                  -36.270783943700216,
+                  -9.124949483880082
+                ],
+                [
+                  -36.27113939648354,
+                  -9.080307278105886
+                ],
+                [
+                  -36.271457068006534,
+                  -9.036047762269577
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.38670073204024613,
+          "cloud_cover_other_in_overlap": 0.5274727792002424,
+          "prioritized_image_filename": "S2B_MSIL2A_20240918T124249_N0511_R009_T24LZQ_20240918T180342.SAFE.zip"
+        }
+      ]
+    },
+    {
+      "group_id": "mosaic_21",
+      "type": "mixed_mosaic",
+      "images": [
+        "S2A_MSIL2A_20241202T124251_N0511_R009_T24LZQ_20241202T151252.SAFE.zip",
+        "S2A_MSIL2A_20241202T124251_N0511_R009_T24LZR_20241202T151252.SAFE.zip"
+      ],
+      "estimated_coverage": 1.0,
+      "quality_factor": 0.6382676656063078,
+      "avg_cloud_coverage": 1.0,
+      "time_window_start": "2024-12-02T12:42:51.024000",
+      "time_window_end": "2024-12-02T12:42:51.024000",
+      "contains_sar": true,
+      "overlap_details": [
+        {
+          "base_image": "S2A_MSIL2A_20241202T124251_N0511_R009_T24LZQ_20241202T151252.SAFE.zip",
+          "other_image": "S2A_MSIL2A_20241202T124251_N0511_R009_T24LZR_20241202T151252.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.2735679160395,
+                  -9.071486829174155
+                ],
+                [
+                  -35.273130935457665,
+                  -9.116085005469525
+                ],
+                [
+                  -36.270783943700216,
+                  -9.124949483880082
+                ],
+                [
+                  -36.27113939648354,
+                  -9.080307278105886
+                ],
+                [
+                  -36.271457068006534,
+                  -9.036047762269577
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.4371242476623248,
+          "cloud_cover_other_in_overlap": 0.4522343778287648,
+          "prioritized_image_filename": "S2A_MSIL2A_20241202T124251_N0511_R009_T24LZQ_20241202T151252.SAFE.zip"
+        }
+      ]
+    },
+    {
+      "group_id": "mosaic_22",
+      "type": "mixed_mosaic",
+      "images": [
+        "S2A_MSIL2A_20250101T124251_N0511_R009_T24LZQ_20250101T170150.SAFE.zip",
+        "S2A_MSIL2A_20250101T124251_N0511_R009_T24LZR_20250101T170150.SAFE.zip"
+      ],
+      "estimated_coverage": 1.0,
+      "quality_factor": 0.6180687418029611,
+      "avg_cloud_coverage": 1.0,
+      "time_window_start": "2025-01-01T12:42:51.024000",
+      "time_window_end": "2025-01-01T12:42:51.024000",
+      "contains_sar": true,
+      "overlap_details": [
+        {
+          "base_image": "S2A_MSIL2A_20250101T124251_N0511_R009_T24LZQ_20250101T170150.SAFE.zip",
+          "other_image": "S2A_MSIL2A_20250101T124251_N0511_R009_T24LZR_20250101T170150.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.2735679160395,
+                  -9.071486829174155
+                ],
+                [
+                  -35.273130935457665,
+                  -9.116085005469525
+                ],
+                [
+                  -36.270783943700216,
+                  -9.124949483880082
+                ],
+                [
+                  -36.27113939648354,
+                  -9.080307278105886
+                ],
+                [
+                  -36.271457068006534,
+                  -9.036047762269577
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.4002671522993942,
+          "cloud_cover_other_in_overlap": 0.4016075697284755,
+          "prioritized_image_filename": "S2A_MSIL2A_20250101T124251_N0511_R009_T24LZQ_20250101T170150.SAFE.zip"
+        }
+      ]
+    },
+    {
+      "group_id": "mosaic_23",
+      "type": "mixed_mosaic",
+      "images": [
+        "S2C_MSIL2A_20250131T124321_N0511_R009_T24LZQ_20250131T172609.SAFE.zip",
+        "S2C_MSIL2A_20250131T124321_N0511_R009_T24LZR_20250131T172609.SAFE.zip",
+        "S2C_MSIL2A_20250131T124321_N0511_R009_T24LZQ_20250131T182713.SAFE.zip"
+      ],
+      "estimated_coverage": 1.0,
+      "quality_factor": 0.5464815344793049,
+      "avg_cloud_coverage": 1.0,
+      "time_window_start": "2025-01-31T12:43:21.024000",
+      "time_window_end": "2025-01-31T12:43:21.024000",
+      "contains_sar": true,
+      "overlap_details": [
+        {
+          "base_image": "S2C_MSIL2A_20250131T124321_N0511_R009_T24LZQ_20250131T172609.SAFE.zip",
+          "other_image": "S2C_MSIL2A_20250131T124321_N0511_R009_T24LZR_20250131T172609.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.2735679160395,
+                  -9.071486829174155
+                ],
+                [
+                  -35.273130935457665,
+                  -9.116085005469525
+                ],
+                [
+                  -36.270783943700216,
+                  -9.124949483880082
+                ],
+                [
+                  -36.27113939648354,
+                  -9.080307278105886
+                ],
+                [
+                  -36.271457068006534,
+                  -9.036047762269577
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.2120476949784179,
+          "cloud_cover_other_in_overlap": 0.21234994845875038,
+          "prioritized_image_filename": "S2C_MSIL2A_20250131T124321_N0511_R009_T24LZQ_20250131T172609.SAFE.zip"
+        },
+        {
+          "base_image": "S2C_MSIL2A_20250131T124321_N0511_R009_T24LZQ_20250131T172609.SAFE.zip",
+          "other_image": "S2C_MSIL2A_20250131T124321_N0511_R009_T24LZQ_20250131T182713.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.26327685900302,
+                  -10.018274267783926
+                ],
+                [
+                  -36.263593358926485,
+                  -10.02803304424272
+                ],
+                [
+                  -36.2714917997572,
+                  -9.036048067892429
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.26327685900302,
+                  -10.018274267783926
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.13821958122235825,
+          "cloud_cover_other_in_overlap": 0.05495303598859991,
+          "prioritized_image_filename": "S2C_MSIL2A_20250131T124321_N0511_R009_T24LZQ_20250131T182713.SAFE.zip"
+        }
+      ]
+    },
+    {
+      "group_id": "mosaic_24",
+      "type": "mixed_mosaic",
+      "images": [
+        "S2C_MSIL2A_20241212T124321_N9905_R009_T24LZR_20241212T142109.SAFE.zip",
+        "S2A_MSIL2A_20241212T124251_N0511_R009_T24LZQ_20241212T151445.SAFE.zip",
+        "S2C_MSIL2A_20241212T124321_N9905_R009_T24LZQ_20241212T142109.SAFE.zip"
+      ],
+      "estimated_coverage": 0.90309462280608,
+      "quality_factor": 0.8536844331775285,
+      "avg_cloud_coverage": 1.0,
+      "time_window_start": "2024-12-12T12:42:51.024000",
+      "time_window_end": "2024-12-12T12:43:21.025000",
+      "contains_sar": true,
+      "overlap_details": [
+        {
+          "base_image": "S2C_MSIL2A_20241212T124321_N9905_R009_T24LZR_20241212T142109.SAFE.zip",
+          "other_image": "S2A_MSIL2A_20241212T124251_N0511_R009_T24LZQ_20241212T151445.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.273130935457665,
+                  -9.116085005469525
+                ],
+                [
+                  -36.270783943700216,
+                  -9.124949483880082
+                ],
+                [
+                  -36.27113939648354,
+                  -9.080307278105886
+                ],
+                [
+                  -36.271457068006534,
+                  -9.036047762269577
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.2735679160395,
+                  -9.071486829174155
+                ],
+                [
+                  -35.273130935457665,
+                  -9.116085005469525
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.15172524634500492,
+          "cloud_cover_other_in_overlap": 0.14886521359411287,
+          "prioritized_image_filename": "S2A_MSIL2A_20241212T124251_N0511_R009_T24LZQ_20241212T151445.SAFE.zip"
+        },
+        {
+          "base_image": "S2C_MSIL2A_20241212T124321_N9905_R009_T24LZR_20241212T142109.SAFE.zip",
+          "other_image": "S2C_MSIL2A_20241212T124321_N9905_R009_T24LZQ_20241212T142109.SAFE.zip",
+          "overlap_geometry_wgs84": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -35.273130935457665,
+                  -9.116085005469525
+                ],
+                [
+                  -36.270783943700216,
+                  -9.124949483880082
+                ],
+                [
+                  -36.27113939648354,
+                  -9.080307278105886
+                ],
+                [
+                  -36.271457068006534,
+                  -9.036047762269577
+                ],
+                [
+                  -35.27404851724399,
+                  -9.027271042420423
+                ],
+                [
+                  -35.2735679160395,
+                  -9.071486829174155
+                ],
+                [
+                  -35.273130935457665,
+                  -9.116085005469525
+                ]
+              ]
+            ]
+          },
+          "cloud_cover_base_in_overlap": 0.15172524634500492,
+          "cloud_cover_other_in_overlap": 0.1516107810169336,
+          "prioritized_image_filename": "S2C_MSIL2A_20241212T124321_N9905_R009_T24LZQ_20241212T142109.SAFE.zip"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+\begin{thebibliography}{6}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+
+\bibitem[Combarro~Sim{\'o}n et~al.(2023)Combarro~Sim{\'o}n, Talbot, Danoy, Musial, Alswaitti, e Bouvry]{Combarro2023}
+Combarro~Sim{\'o}n, M., Talbot, P., Danoy, G., Musial, J., Alswaitti, M., e Bouvry, P. (2023).
+\newblock Constraint model for the satellite image mosaic selection problem.
+\newblock arXiv preprint arXiv:2312.04210.
+\newblock URL \url{https://arxiv.org/abs/2312.04210}.
+
+\bibitem[Kim et~al.(2019)Kim, Cho, Ahn, e Choi]{Kim2019}
+Kim, J., Cho, D.-H., Ahn, J., e Choi, H.-L. (2019).
+\newblock Task scheduling of multiple agile satellites with transition time and stereo imaging constraints.
+\newblock arXiv preprint arXiv:1912.00374.
+\newblock URL \url{https://arxiv.org/abs/1912.00374}.
+
+\bibitem[Kuck et~al.(2024)Kuck, Hayashi, Pinto, Shiguemori, Siqueira, Oliveira, Pola, e Oliveira]{kuck2024otimizacao}
+Kuck, T.~N., Hayashi, A. C.~I., Pinto, M.~J., Shiguemori, E.~H., Siqueira, H. V. S.~d., Oliveira, R.~H., Pola, H., e Oliveira, A. C. M.~d. (2024).
+\newblock Otimização da aquisição de dados {SAR} para monitoramento de Áreas com alto risco de desmatamento no bioma amazônia com uso de algoritmos genéticos.
+\newblock In {\em Anais do Simpósio Brasileiro de Pesquisa Operacional}.
+
+\bibitem[Li et~al.(2024)Li, Liu, e Liu]{Li2024}
+Li, F., Liu, Y., e Liu, J. (2024).
+\newblock Remote sensing image retrieval algorithm for dense data (dd-rsira).
+\newblock {\em Remote Sensing}, 16\penalty0 (1):\penalty0 98.
+
+\bibitem[Nie et~al.(2023)Nie, Cui, e Wan]{Nie2023}
+Nie, P., Cui, Z., e Wan, Y. (2023).
+\newblock A rapid parallel mosaicking algorithm for massive remote sensing images utilizing read filtering.
+\newblock {\em Remote Sensing}, 15\penalty0 (19):\penalty0 4863.
+
+\bibitem[Zhang et~al.(2022)Zhang, Xi, Niu, e Tao]{Zhang2022}
+Zhang, P., Xi, K., Niu, Z., e Tao, P. (2022).
+\newblock Optimal selection from extremely redundant satellite images for efficient large-scale mapping.
+\newblock {\em ISPRS Journal of Photogrammetry and Remote Sensing}, 194:\penalty0 21--38.
+
+\end{thebibliography}

@@ -1,0 +1,28 @@
+\begin{thebibliography}{}
+
+\bibitem[Bragagnolo et~al., 2023]{bragagnolo2023}
+Bragagnolo, L., Pacheco, V.~L., and Kripka, M. (2023).
+\newblock A practical approach for the optimization of air monitoring networks using satellite data.
+\newblock In {\em Anais do LV Simpósio Brasileiro de Pesquisa Operacional}.
+
+\bibitem[Kuck et~al., 2024]{kuck2024otimizacao}
+Kuck, T.~N., Hayashi, A. C.~I., Pinto, M.~J., Shiguemori, E.~H., Siqueira, H. V. S.~d., Oliveira, R.~H., Pola, H., and Oliveira, A. C. M.~d. (2024).
+\newblock Otimização da aquisição de dados {SAR} para monitoramento de Áreas com alto risco de desmatamento no bioma amazônia com uso de algoritmos genéticos.
+\newblock In {\em Anais do Simpósio Brasileiro de Pesquisa Operacional}.
+
+\bibitem[Li et~al., 2018]{li2018}
+Li, S., Yang, H., Zhang, J., and Wang, R. (2018).
+\newblock A constructive heuristic for seamless satellite image mosaicking.
+\newblock In {\em 2018 IEEE International Geoscience and Remote Sensing Symposium}, pages 3335--3338. IEEE.
+
+\bibitem[Wang et~al., 2021]{wang2021}
+Wang, L., Chen, J., Ma, Y., Zhang, L., and Gong, P. (2021).
+\newblock A greedy algorithm for optimizing spatial coverage in satellite image selection.
+\newblock {\em ISPRS Journal of Photogrammetry and Remote Sensing}, 172:160--171.
+
+\bibitem[Zhao et~al., 2019]{zhao2019}
+Zhao, Y., Zhao, X., and Xia, X. (2019).
+\newblock Earth observation satellite scheduling with a mixed-integer programming approach.
+\newblock {\em European Journal of Operational Research}, 275(1):135--146.
+
+\end{thebibliography}
